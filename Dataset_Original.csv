@@ -1,0 +1,9 @@
+ID,Fecha,HorasSue¤o,Desayuno,Meditacion_min,Ejercicio_min,Productividad,EstadoAnimo
+1,01/10/2025,7,cereal,10,30,8,Feliz
+2,02/10/2025,5,Cereal,0,0,6,Estresado
+3,03/10/2025,8,huevo,15,45,9,contento
+4,04/10/2025,4,pan,,20,5,Triste
+5,05/10/2025,7,cereal,10,30,8,feliz
+6,06/10/2025,9,avena,,50,10,Relajado
+7,07/10/2025,6,pan dulce,5,20,7,
+8,08/10/2025,,cereal,10,35,,Feliz
