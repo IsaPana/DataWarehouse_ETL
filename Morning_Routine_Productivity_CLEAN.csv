@@ -1,0 +1,901 @@
+Date,wake_up_time,sleep_duration_hrs,meditation_mins,exercise_mins,breakfast_type,work_start_time,productivity_score,mood,notes,Journaling
+2023-02-01 10:21:52.870632,05:30:00,6.6,20,60,protein-rich,06:30:00,6,neutral,collection whole decision middle,1
+2023-02-02 10:21:52.870632,08:15:00,8.0,5,50,heavy,11:15:00,7,happy,tree player behavior various up such attention project,0
+2023-02-03 10:21:52.870632,08:30:00,8.9,25,30,carb-rich,10:30:00,10,happy,if hard focus nor trip forward change per,1
+2023-02-04 10:21:52.870632,05:00:00,8.4,25,30,skipped,07:00:00,7,happy,physical threat federal with thing,1
+2023-02-05 10:21:52.870632,05:15:00,8.2,25,30,heavy,06:15:00,10,happy,ground class mr future,0
+2023-02-06 10:21:52.870632,07:15:00,8.2,15,10,skipped,08:15:00,6,neutral,structure wife although,0
+2023-02-07 10:21:52.870632,04:30:00,8.8,5,0,skipped,06:30:00,10,happy,hit hear night management,0
+2023-02-08 10:21:52.870632,06:45:00,8.2,25,30,skipped,09:45:00,10,happy,southern fight stay final per,1
+2023-02-09 10:21:52.870632,07:45:00,7.0,5,10,heavy,08:45:00,5,neutral,right address who might strong already whom,1
+2023-02-10 10:21:52.870632,04:15:00,8.2,5,0,heavy,05:15:00,9,happy,skin impact happy,0
+2023-02-11 10:21:52.870632,04:15:00,7.5,0,50,heavy,07:15:00,6,neutral,american over far election determine could,1
+2023-02-12 10:21:52.870632,06:45:00,7.0,5,20,light,09:45:00,7,happy,ten large window price far point,1
+2023-02-13 10:21:52.870632,08:15:00,8.7,0,60,heavy,11:15:00,8,happy,build address development technology instead officer,1
+2023-02-14 10:21:52.870632,04:00:00,5.4,10,30,light,07:00:00,2,sad,a arrive store approach morning dark,0
+2023-02-15 10:21:52.870632,08:45:00,7.0,5,0,heavy,09:45:00,6,neutral,bring person leave,1
+2023-02-16 10:21:52.870632,08:45:00,7.0,30,20,heavy,11:45:00,7,happy,receive others across mother gun indeed coach military,0
+2023-02-17 10:21:52.870632,07:00:00,6.8,5,0,carb-rich,08:00:00,6,neutral,consumer face policy bit,0
+2023-02-18 10:21:52.870632,09:45:00,5.7,10,0,protein-rich,12:45:00,3,sad,nice star entire,1
+2023-02-19 10:21:52.870632,05:45:00,5.8,30,20,light,07:45:00,5,sad,letter expert well center seven newspaper,1
+2023-02-20 10:21:52.870632,06:30:00,6.7,20,20,carb-rich,09:30:00,3,sad,card small each himself defense third every,1
+2023-02-21 10:21:52.870632,09:00:00,8.5,15,40,carb-rich,11:00:00,10,happy,information quite century sign,0
+2023-02-22 10:21:52.870632,04:00:00,8.3,0,10,carb-rich,07:00:00,6,neutral,person executive opportunity a whose floor,1
+2023-02-23 10:21:52.870632,09:30:00,5.2,10,20,skipped,11:30:00,3,sad,charge institution maintain late once enjoy its,1
+2023-02-24 10:21:52.870632,09:00:00,8.1,15,20,heavy,12:00:00,7,happy,cup gas then plan theory take,1
+2023-02-25 10:21:52.870632,06:00:00,7.8,0,0,skipped,09:00:00,7,happy,trial nice stage the popular later,0
+2023-02-26 10:21:52.870632,04:00:00,7.7,15,20,skipped,06:00:00,5,neutral,effort set customer try,1
+2023-02-27 10:21:52.870632,04:15:00,7.7,10,0,heavy,05:15:00,8,happy,charge quite decision response,0
+2023-02-28 10:21:52.870632,09:45:00,6.1,0,30,protein-rich,10:45:00,4,sad,hand development claim answer federal fill,0
+2023-03-01 10:21:52.870632,06:15:00,9.0,30,60,heavy,08:15:00,9,happy,dog want card sing tree set,1
+2023-03-02 10:21:52.870632,08:30:00,6.7,30,40,carb-rich,11:30:00,5,neutral,buy each court,0
+2023-03-03 10:21:52.870632,05:00:00,6.6,10,30,light,08:00:00,5,neutral,social glass forget city high themselves,1
+2023-03-04 10:21:52.870632,09:30:00,6.5,15,60,protein-rich,11:30:00,5,neutral,report job safe energy purpose,1
+2023-03-05 10:21:52.870632,05:00:00,5.1,20,40,heavy,08:00:00,3,sad,since set back among job movement,0
+2023-03-06 10:21:52.870632,04:00:00,6.7,10,0,protein-rich,07:00:00,4,sad,among cover she later plant,1
+2023-03-07 10:21:52.870632,04:15:00,5.4,25,20,protein-rich,07:15:00,3,sad,cause play next read indicate,0
+2023-03-08 10:21:52.870632,04:45:00,5.6,30,40,carb-rich,05:45:00,3,sad,pressure agent determine reach,0
+2023-03-09 10:21:52.870632,09:00:00,5.7,0,20,light,12:00:00,2,sad,recognize sing challenge fine stuff yard though,0
+2023-03-10 10:21:52.870632,04:30:00,7.0,20,50,protein-rich,06:30:00,8,happy,born above year beautiful hold pay,0
+2023-03-11 10:21:52.870632,06:45:00,8.0,0,20,light,08:45:00,8,happy,relate who eight employee war member material,1
+2023-03-12 10:21:52.870632,06:00:00,5.9,20,30,heavy,08:00:00,5,sad,represent herself lead leg,1
+2023-03-13 10:21:52.870632,09:45:00,7.8,10,40,heavy,12:45:00,9,happy,thing black base eat quality home others,0
+2023-03-14 10:21:52.870632,05:30:00,6.1,0,40,skipped,07:30:00,4,sad,anyone daughter course than course,1
+2023-03-15 10:21:52.870632,05:30:00,5.3,10,10,skipped,07:30:00,3,sad,its garden especially east,1
+2023-03-16 10:21:52.870632,06:30:00,5.2,10,20,light,09:30:00,2,sad,third true ask impact,1
+2023-03-17 10:21:52.870632,08:45:00,8.4,10,20,light,09:45:00,6,neutral,affect home agree rule television recent just,0
+2023-03-18 10:21:52.870632,08:00:00,7.3,10,10,heavy,10:00:00,7,happy,character next party direction,1
+2023-03-19 10:21:52.870632,05:00:00,5.6,0,50,carb-rich,07:00:00,2,sad,the decision amount party why,1
+2023-03-20 10:21:52.870632,04:00:00,7.4,0,20,carb-rich,06:00:00,5,neutral,moment wish professor rather factor world small,1
+2023-03-21 10:21:52.870632,04:00:00,8.8,30,50,heavy,07:00:00,10,happy,fill set provide office meet,0
+2023-03-22 10:21:52.870632,06:00:00,8.2,5,50,skipped,09:00:00,7,happy,who work project impact form fight region free,0
+2023-03-23 10:21:52.870632,08:00:00,8.6,25,60,heavy,11:00:00,7,happy,try party why worry which,0
+2023-03-24 10:21:52.870632,06:45:00,7.5,5,50,light,09:45:00,9,happy,because hundred news yourself life position,1
+2023-03-25 10:21:52.870632,05:15:00,6.1,15,50,protein-rich,07:15:00,7,neutral,someone require station for relationship control religious,1
+2023-03-26 10:21:52.870632,07:00:00,8.0,0,0,protein-rich,08:00:00,4,sad,street money talk sure too,0
+2023-03-27 10:21:52.870632,09:00:00,5.4,15,40,light,12:00:00,6,sad,away police left,1
+2023-03-28 10:21:52.870632,09:30:00,5.3,15,60,skipped,11:30:00,4,sad,clearly generation sell free something,0
+2023-03-29 10:21:52.870632,09:45:00,6.8,10,40,light,10:45:00,5,neutral,build kid live himself investment edge someone,1
+2023-03-30 10:21:52.870632,08:00:00,8.0,0,0,protein-rich,10:00:00,6,neutral,suddenly support surface offer painting allow life police,1
+2023-03-31 10:21:52.870632,06:00:00,7.1,15,20,skipped,09:00:00,4,sad,though song wrong your stand teach,1
+2023-04-01 10:21:52.870632,08:45:00,6.7,20,50,protein-rich,10:45:00,5,neutral,law wrong fly simple manager plan well establish,0
+2023-04-02 10:21:52.870632,06:00:00,6.0,0,50,light,09:00:00,4,sad,trouble market police beyond nearly but everyone,1
+2023-04-03 10:21:52.870632,05:30:00,6.3,0,30,protein-rich,07:30:00,6,neutral,treatment step performance soon lead nation,0
+2023-04-04 10:21:52.870632,08:00:00,6.6,30,20,carb-rich,10:00:00,5,neutral,red appear level another respond then huge,1
+2023-04-05 10:21:52.870632,05:30:00,7.1,25,0,heavy,06:30:00,5,neutral,take present from buy beat field that,0
+2023-04-06 10:21:52.870632,06:45:00,7.0,5,60,light,09:45:00,5,neutral,year fine paper view teach rich republican,1
+2023-04-07 10:21:52.870632,07:45:00,5.9,20,50,light,09:45:00,7,sad,certainly agree east work trip suddenly economic,0
+2023-04-08 10:21:52.870632,05:30:00,6.6,25,10,skipped,08:30:00,4,sad,write kid despite pull police need hold,1
+2023-04-09 10:21:52.870632,07:30:00,6.0,30,20,heavy,09:30:00,5,neutral,son late hour focus seven agent window soon,1
+2023-04-10 10:21:52.870632,04:45:00,7.5,10,50,protein-rich,06:45:00,6,neutral,public special sing total,1
+2023-04-11 10:21:52.870632,09:30:00,6.2,25,30,carb-rich,10:30:00,7,neutral,son third least year land live,0
+2023-04-12 10:21:52.870632,04:45:00,8.8,30,50,skipped,05:45:00,8,happy,add coach range someone worker eight most walk,0
+2023-04-13 10:21:52.870632,09:45:00,7.0,5,40,light,10:45:00,5,neutral,court ability admit i,0
+2023-04-14 10:21:52.870632,05:30:00,8.5,10,30,skipped,06:30:00,9,happy,exist sometimes dream business call program,0
+2023-04-15 10:21:52.870632,08:30:00,5.1,30,60,carb-rich,09:30:00,3,sad,stay agree someone thus example democratic whom,1
+2023-04-16 10:21:52.870632,04:15:00,5.5,25,50,heavy,05:15:00,5,sad,it school court often,0
+2023-04-17 10:21:52.870632,05:30:00,8.1,15,20,heavy,07:30:00,7,happy,need produce toward yeah through fall,0
+2023-04-18 10:21:52.870632,08:45:00,5.1,15,60,skipped,09:45:00,2,sad,concern leader group various,1
+2023-04-19 10:21:52.870632,05:00:00,8.8,25,40,carb-rich,07:00:00,8,happy,outside watch win deal section simple,0
+2023-04-20 10:21:52.870632,05:30:00,5.1,25,60,light,06:30:00,5,sad,them fast realize up laugh night,0
+2023-04-21 10:21:52.870632,05:30:00,5.5,15,10,heavy,06:30:00,4,sad,mrs write job commercial black,1
+2023-04-22 10:21:52.870632,05:15:00,7.0,20,0,carb-rich,08:15:00,5,neutral,thus bring involve child send conference citizen smile,1
+2023-04-23 10:21:52.870632,08:00:00,7.8,20,30,heavy,11:00:00,6,neutral,fill hot war give position off perhaps,0
+2023-04-24 10:21:52.870632,04:30:00,6.5,20,60,protein-rich,06:30:00,6,neutral,difficult trip side speech,0
+2023-04-25 10:21:52.870632,09:00:00,5.8,15,60,skipped,10:00:00,5,sad,office government middle most class set,1
+2023-04-26 10:21:52.870632,04:45:00,6.4,20,20,heavy,07:45:00,4,sad,major kitchen affect dog,0
+2023-04-27 10:21:52.870632,07:00:00,8.4,0,50,protein-rich,09:00:00,9,happy,sound everybody produce professional member training room material,1
+2023-04-28 10:21:52.870632,07:30:00,7.8,0,10,heavy,10:30:00,7,happy,one wear wall despite voice,1
+2023-04-29 10:21:52.870632,04:00:00,6.4,25,10,heavy,06:00:00,3,sad,particular per writer recent,0
+2023-04-30 10:21:52.870632,05:45:00,6.8,30,60,carb-rich,08:45:00,8,neutral,detail wall meeting even,1
+2023-05-01 10:21:52.870632,09:15:00,7.5,25,50,carb-rich,12:15:00,7,happy,stage language half could purpose need account,1
+2023-05-02 10:21:52.870632,06:00:00,8.3,10,50,heavy,08:00:00,7,happy,employee factor war piece college college,0
+2023-05-03 10:21:52.870632,09:00:00,7.0,0,20,heavy,12:00:00,5,neutral,air outside eight garden sort,0
+2023-05-04 10:21:52.870632,06:15:00,8.6,20,10,protein-rich,07:15:00,8,happy,back write face for response character,0
+2023-05-05 10:21:52.870632,06:45:00,6.8,20,40,protein-rich,08:45:00,4,sad,daughter action lose among else spring through student,0
+2023-05-06 10:21:52.870632,07:30:00,5.6,20,40,carb-rich,08:30:00,3,sad,hope boy door,0
+2023-05-07 10:21:52.870632,05:30:00,8.9,30,0,skipped,07:30:00,7,happy,above charge course study,0
+2023-05-08 10:21:52.870632,06:45:00,8.0,15,30,skipped,09:45:00,7,happy,east go without go someone another east,1
+2023-05-09 10:21:52.870632,06:15:00,5.9,10,50,protein-rich,09:15:00,3,sad,seat next news,0
+2023-05-10 10:21:52.870632,06:45:00,6.1,20,60,light,07:45:00,6,neutral,impact develop available reach begin large decision,0
+2023-05-11 10:21:52.870632,05:45:00,7.1,15,20,protein-rich,06:45:00,4,sad,rest word help glass republican,1
+2023-05-12 10:21:52.870632,04:00:00,7.4,0,20,skipped,06:00:00,4,sad,home deep camera republican lay,0
+2023-05-13 10:21:52.870632,08:00:00,5.8,15,10,skipped,09:00:00,6,sad,spend school up but name parent him,0
+2023-05-14 10:21:52.870632,04:45:00,5.7,20,60,light,06:45:00,5,sad,resource over follow seven develop then,1
+2023-05-15 10:21:52.870632,04:45:00,5.7,30,30,skipped,05:45:00,5,sad,court reality take enough with,1
+2023-05-16 10:21:52.870632,09:30:00,6.2,5,50,skipped,11:30:00,7,neutral,ground suddenly culture,1
+2023-05-17 10:21:52.870632,09:00:00,7.2,20,10,heavy,12:00:00,4,sad,range expect certainly,1
+2023-05-18 10:21:52.870632,05:15:00,7.2,20,30,protein-rich,06:15:00,6,neutral,teach key film war add forward rate,0
+2023-05-19 10:21:52.870632,04:15:00,5.2,30,20,light,06:15:00,5,sad,southern arm newspaper city,0
+2023-05-20 10:21:52.870632,08:00:00,7.0,15,0,carb-rich,10:00:00,7,happy,perform difference sound news lay keep center,1
+2023-05-21 10:21:52.870632,07:30:00,6.6,20,60,skipped,10:30:00,5,neutral,team sing stand school travel traditional personal police,1
+2023-05-22 10:21:52.870632,06:45:00,7.7,30,20,skipped,08:45:00,5,neutral,could senior start,0
+2023-05-23 10:21:52.870632,06:45:00,8.6,0,50,skipped,07:45:00,6,neutral,responsibility each film size season,1
+2023-05-24 10:21:52.870632,06:45:00,7.1,25,60,carb-rich,08:45:00,5,neutral,improve policy assume likely,0
+2023-05-25 10:21:52.870632,06:45:00,5.0,5,20,light,07:45:00,1,sad,professional i loss second table tax,0
+2023-05-26 10:21:52.870632,05:45:00,7.1,0,0,protein-rich,07:45:00,4,sad,center through campaign discover,1
+2023-05-27 10:21:52.870632,07:30:00,7.6,5,20,protein-rich,09:30:00,5,neutral,because old agent teach position,1
+2023-05-28 10:21:52.870632,04:45:00,6.9,20,30,light,05:45:00,7,neutral,share our child property pull never,0
+2023-05-29 10:21:52.870632,09:00:00,8.5,20,0,protein-rich,10:00:00,6,neutral,finish head let pull,1
+2023-05-30 10:21:52.870632,06:45:00,5.2,0,50,skipped,07:45:00,1,sad,apply apply common consumer red without,0
+2023-05-31 10:21:52.870632,09:00:00,6.3,0,30,heavy,12:00:00,3,sad,measure check task,1
+2023-06-01 10:21:52.870632,09:15:00,8.1,20,20,carb-rich,12:15:00,5,neutral,remember what final interesting job catch billion sea,0
+2023-06-02 10:21:52.870632,04:15:00,8.7,10,10,protein-rich,06:15:00,6,neutral,charge role organization eight,1
+2023-06-03 10:21:52.870632,04:45:00,7.7,30,50,carb-rich,06:45:00,6,neutral,they fall fish water base,0
+2023-06-04 10:21:52.870632,05:45:00,7.9,5,30,heavy,07:45:00,8,happy,thus life individual,0
+2023-06-05 10:21:52.870632,06:15:00,6.6,20,50,carb-rich,08:15:00,7,neutral,dream whole near huge itself show begin,0
+2023-06-06 10:21:52.870632,08:00:00,6.0,20,50,protein-rich,11:00:00,5,neutral,style oil sign wonder material admit,0
+2023-06-07 10:21:52.870632,05:00:00,6.6,30,10,carb-rich,06:00:00,5,neutral,take talk all with day,0
+2023-06-08 10:21:52.870632,04:00:00,5.9,20,20,protein-rich,06:00:00,3,sad,involve dinner they would we major approach indeed,1
+2023-06-09 10:21:52.870632,06:15:00,5.6,15,40,heavy,07:15:00,3,sad,it another strategy music everybody,0
+2023-06-10 10:21:52.870632,07:15:00,6.0,30,10,carb-rich,09:15:00,3,sad,old find whom clear on,1
+2023-06-11 10:21:52.870632,06:45:00,7.6,0,30,heavy,07:45:00,7,happy,week full follow eye,1
+2023-06-12 10:21:52.870632,08:00:00,6.6,20,0,protein-rich,09:00:00,6,neutral,laugh age represent,1
+2023-06-13 10:21:52.870632,08:45:00,7.9,5,50,heavy,10:45:00,6,neutral,above animal describe sound feeling prepare personal,0
+2023-06-14 10:21:52.870632,08:30:00,8.1,20,60,protein-rich,10:30:00,7,happy,believe down role employee live plan lawyer,0
+2023-06-15 10:21:52.870632,05:15:00,8.2,10,60,carb-rich,06:15:00,8,happy,bed religious nor rather,0
+2023-06-16 10:21:52.870632,05:00:00,5.7,10,50,skipped,07:00:00,5,sad,expect new mr ten test,1
+2023-06-17 10:21:52.870632,05:30:00,6.1,25,0,protein-rich,08:30:00,4,sad,theory product country,0
+2023-06-18 10:21:52.870632,06:45:00,6.5,0,50,carb-rich,09:45:00,3,sad,day whom two since well will,1
+2023-06-19 10:21:52.870632,05:15:00,5.4,30,10,carb-rich,07:15:00,2,sad,player whatever run degree big,1
+2023-06-20 10:21:52.870632,07:15:00,8.0,0,20,skipped,08:15:00,6,neutral,project day after once discussion,0
+2023-06-21 10:21:52.870632,06:30:00,5.7,30,20,heavy,07:30:00,2,sad,tend economic teach goal improve song,1
+2023-06-22 10:21:52.870632,07:30:00,7.4,0,0,light,10:30:00,6,neutral,project common blood each education,1
+2023-06-23 10:21:52.870632,05:30:00,8.3,0,50,light,06:30:00,8,happy,continue dark expect their test,0
+2023-06-24 10:21:52.870632,06:00:00,8.6,20,40,carb-rich,09:00:00,9,happy,stuff game would force condition,0
+2023-06-25 10:21:52.870632,09:45:00,7.0,5,40,skipped,10:45:00,8,happy,claim stop professional mission thank positive how economy,0
+2023-06-26 10:21:52.870632,08:30:00,5.9,30,50,protein-rich,11:30:00,5,sad,nation student hotel finally,0
+2023-06-27 10:21:52.870632,08:45:00,7.5,15,10,protein-rich,10:45:00,7,happy,marriage sister ever dark,1
+2023-06-28 10:21:52.870632,09:30:00,7.9,15,0,skipped,10:30:00,8,happy,environment with voice catch,0
+2023-06-29 10:21:52.870632,04:45:00,6.4,25,60,carb-rich,06:45:00,5,neutral,form early staff better visit our music,1
+2023-06-30 10:21:52.870632,07:30:00,6.2,30,50,light,10:30:00,4,sad,world decide threat realize stage,0
+2023-07-01 10:21:52.870632,07:45:00,7.4,25,50,skipped,08:45:00,8,happy,game wish so pass consider,0
+2023-07-02 10:21:52.870632,05:15:00,8.7,25,10,carb-rich,08:15:00,6,neutral,time rate cover her husband,0
+2023-07-03 10:21:52.870632,05:45:00,8.9,25,30,skipped,06:45:00,9,happy,produce score media continue control,0
+2023-07-04 10:21:52.870632,09:45:00,7.6,30,40,light,10:45:00,6,neutral,time claim loss true deep,0
+2023-07-05 10:21:52.870632,09:15:00,7.8,10,60,carb-rich,10:15:00,9,happy,fear even far social into small pressure hit,1
+2023-07-06 10:21:52.870632,04:30:00,7.8,5,0,carb-rich,05:30:00,8,happy,son no care cause inside recent,1
+2023-07-07 10:21:52.870632,07:45:00,5.6,5,60,light,10:45:00,5,sad,back response traditional computer carry,1
+2023-07-08 10:21:52.870632,05:30:00,8.0,5,20,skipped,06:30:00,8,happy,skill economic floor term economic building,0
+2023-07-09 10:21:52.870632,05:15:00,6.5,30,50,heavy,06:15:00,4,sad,result easy drop affect certain always,1
+2023-07-10 10:21:52.870632,05:30:00,6.9,10,10,skipped,08:30:00,5,neutral,poor include after pm traditional like,0
+2023-07-11 10:21:52.870632,04:45:00,6.2,30,0,heavy,06:45:00,6,neutral,agree true even mission third there,0
+2023-07-12 10:21:52.870632,07:00:00,5.0,10,60,carb-rich,08:00:00,2,sad,run third coach size resource put,1
+2023-07-13 10:21:52.870632,06:30:00,7.2,10,10,protein-rich,09:30:00,7,happy,person baby training,1
+2023-07-14 10:21:52.870632,06:30:00,6.7,30,50,heavy,09:30:00,6,neutral,ready marriage top war board,0
+2023-07-15 10:21:52.870632,09:30:00,7.9,5,0,carb-rich,11:30:00,7,happy,do speech then among personal last board,0
+2023-07-16 10:21:52.870632,04:45:00,5.9,30,0,protein-rich,07:45:00,4,sad,five development ago traditional mind company sing,0
+2023-07-17 10:21:52.870632,09:45:00,8.2,25,60,heavy,10:45:00,10,happy,doctor paper region their,1
+2023-07-18 10:21:52.870632,08:30:00,5.9,5,0,skipped,11:30:00,5,sad,fund company yard back write position research,0
+2023-07-19 10:21:52.870632,06:30:00,6.5,25,40,protein-rich,08:30:00,8,neutral,as war our sometimes expert anyone mind,1
+2023-07-20 10:21:52.870632,09:45:00,5.0,30,10,protein-rich,12:45:00,1,sad,under race should gun coach,0
+2023-07-21 10:21:52.870632,06:30:00,5.5,5,0,carb-rich,07:30:00,4,sad,head table security wall,0
+2023-07-22 10:21:52.870632,06:45:00,5.3,15,30,carb-rich,08:45:00,3,sad,every learn rich report,1
+2023-07-23 10:21:52.870632,06:15:00,7.3,25,60,carb-rich,07:15:00,5,neutral,hear join agree affect,1
+2023-07-24 10:21:52.870632,08:15:00,7.7,15,40,heavy,11:15:00,7,happy,plant strategy different cover,1
+2023-07-25 10:21:52.870632,06:30:00,5.7,30,10,protein-rich,08:30:00,4,sad,protect line affect image own according various,1
+2023-07-26 10:21:52.870632,06:30:00,5.0,20,40,heavy,08:30:00,2,sad,simply choose notice enjoy last along feeling onto,0
+2023-07-27 10:21:52.870632,06:15:00,8.5,20,60,protein-rich,08:15:00,10,happy,field eye through radio any,0
+2023-07-28 10:21:52.870632,06:00:00,6.2,20,40,light,07:00:00,6,neutral,effect special debate wide market tv,0
+2023-07-29 10:21:52.870632,08:45:00,8.6,20,20,light,10:45:00,8,happy,southern process health professional,0
+2023-07-30 10:21:52.870632,08:45:00,6.1,20,20,heavy,09:45:00,3,sad,try foreign force well wear test because,1
+2023-07-31 10:21:52.870632,09:45:00,8.1,20,20,skipped,12:45:00,7,happy,series book fast usually indicate phone parent return,1
+2023-08-01 10:21:52.870632,08:45:00,7.4,0,20,heavy,10:45:00,4,sad,break impact character rock,0
+2023-08-02 10:21:52.870632,04:45:00,8.6,20,10,protein-rich,05:45:00,9,happy,why teach add section wish pretty,1
+2023-08-03 10:21:52.870632,06:15:00,7.1,20,20,heavy,09:15:00,5,neutral,ahead themselves perhaps great program process,1
+2023-08-04 10:21:52.870632,07:45:00,7.7,5,10,carb-rich,09:45:00,7,happy,trouble conference north include moment care ahead,1
+2023-08-05 10:21:52.870632,06:30:00,6.4,25,0,carb-rich,07:30:00,6,neutral,against bed teach former hospital,1
+2023-08-06 10:21:52.870632,04:00:00,8.0,15,50,light,05:00:00,9,happy,bank cost attack much sure,1
+2023-08-07 10:21:52.870632,07:45:00,5.3,15,30,protein-rich,10:45:00,2,sad,force me hope,1
+2023-08-08 10:21:52.870632,07:00:00,7.6,15,0,skipped,08:00:00,8,happy,to there father,0
+2023-08-09 10:21:52.870632,04:00:00,8.3,0,50,heavy,05:00:00,6,neutral,break option short million,0
+2023-08-10 10:21:52.870632,07:45:00,8.7,10,20,carb-rich,09:45:00,8,happy,tend grow study do try young future,1
+2023-08-11 10:21:52.870632,09:00:00,6.4,30,0,protein-rich,11:00:00,3,sad,sense town material strong painting newspaper himself,1
+2023-08-12 10:21:52.870632,09:45:00,6.7,5,10,protein-rich,11:45:00,5,neutral,which subject imagine face necessary let someone,0
+2023-08-13 10:21:52.870632,07:30:00,9.0,10,60,skipped,09:30:00,10,happy,soldier against part today former great two,0
+2023-08-14 10:21:52.870632,07:00:00,5.5,20,40,carb-rich,09:00:00,5,sad,church certain during seat provide alone west amount,1
+2023-08-15 10:21:52.870632,09:30:00,8.3,20,50,light,11:30:00,8,happy,mention security better,1
+2023-08-16 10:21:52.870632,05:15:00,8.2,20,50,heavy,07:15:00,6,neutral,spend once campaign so kind best part idea,0
+2023-08-17 10:21:52.870632,06:45:00,8.9,30,60,carb-rich,08:45:00,10,happy,design nearly real indicate production,1
+2023-08-18 10:21:52.870632,09:30:00,7.0,30,10,skipped,11:30:00,7,happy,finish red color table case summer,0
+2023-08-19 10:21:52.870632,04:45:00,8.9,15,20,light,06:45:00,10,happy,car a threat matter old everybody,1
+2023-08-20 10:21:52.870632,07:30:00,5.9,25,30,heavy,08:30:00,6,sad,include against song first debate economy,1
+2023-08-21 10:21:52.870632,05:00:00,5.5,15,0,carb-rich,07:00:00,3,sad,modern city school onto,1
+2023-08-22 10:21:52.870632,06:30:00,6.6,10,20,skipped,07:30:00,4,sad,safe mission break simply,0
+2023-08-23 10:21:52.870632,08:00:00,8.4,0,20,protein-rich,09:00:00,7,happy,drop although cost major,0
+2023-08-24 10:21:52.870632,06:45:00,7.9,25,0,heavy,09:45:00,6,neutral,black do thought,1
+2023-08-25 10:21:52.870632,06:00:00,5.3,0,40,carb-rich,08:00:00,2,sad,world upon bit under its region,0
+2023-08-26 10:21:52.870632,04:45:00,5.5,30,20,protein-rich,07:45:00,5,sad,increase lawyer practice guy,1
+2023-08-27 10:21:52.870632,07:15:00,5.2,20,50,heavy,10:15:00,2,sad,discover single address win american music once,0
+2023-08-28 10:21:52.870632,05:30:00,8.2,10,40,heavy,06:30:00,8,happy,deep ok success nation increase relationship mouth,0
+2023-08-29 10:21:52.870632,09:00:00,6.9,30,50,light,12:00:00,8,neutral,deep too yet scene cup,0
+2023-08-30 10:21:52.870632,04:00:00,7.2,20,20,light,07:00:00,7,happy,meeting certainly still situation manager despite should,1
+2023-08-31 10:21:52.870632,06:15:00,7.1,30,60,protein-rich,07:15:00,6,neutral,term detail whatever its,1
+2023-09-01 10:21:52.870632,05:45:00,8.4,20,50,heavy,06:45:00,8,happy,sport ahead right director wear finish may,1
+2023-09-02 10:21:52.870632,07:00:00,6.1,0,30,carb-rich,09:00:00,3,sad,only visit she parent,1
+2023-09-03 10:21:52.870632,04:00:00,7.3,0,0,protein-rich,05:00:00,6,neutral,themselves fight film forward minute account career someone,0
+2023-09-04 10:21:52.870632,05:45:00,6.7,5,0,skipped,07:45:00,3,sad,meet sure several require play under,1
+2023-09-05 10:21:52.870632,09:30:00,7.0,0,20,heavy,11:30:00,5,neutral,write enter continue campaign,1
+2023-09-06 10:21:52.870632,09:45:00,7.9,0,60,skipped,10:45:00,6,neutral,skin there whatever reduce,0
+2023-09-07 10:21:52.870632,05:15:00,6.0,15,40,skipped,07:15:00,5,neutral,true anything take card leader able last often,1
+2023-09-08 10:21:52.870632,08:45:00,7.0,5,10,skipped,10:45:00,4,sad,seem somebody girl,0
+2023-09-09 10:21:52.870632,06:30:00,7.9,15,20,protein-rich,09:30:00,8,happy,course politics end if away attention its character,0
+2023-09-10 10:21:52.870632,07:30:00,5.4,15,50,protein-rich,10:30:00,5,sad,attack focus attention course affect,0
+2023-09-11 10:21:52.870632,09:45:00,7.4,30,0,light,10:45:00,5,neutral,culture very politics,0
+2023-09-12 10:21:52.870632,05:00:00,7.8,20,0,heavy,06:00:00,7,happy,computer instead yet degree figure tend gun,1
+2023-09-13 10:21:52.870632,09:45:00,7.2,15,60,light,12:45:00,9,happy,people career level difference however,1
+2023-09-14 10:21:52.870632,08:00:00,6.0,25,30,light,09:00:00,3,sad,physical turn would prepare study policy evening,1
+2023-09-15 10:21:52.870632,06:15:00,8.4,25,0,carb-rich,07:15:00,9,happy,involve ability toward data smile fund stage agree,1
+2023-09-16 10:21:52.870632,09:45:00,5.2,10,60,carb-rich,11:45:00,3,sad,eye resource night,0
+2023-09-17 10:21:52.870632,06:45:00,6.1,30,20,heavy,08:45:00,5,neutral,practice face physical almost,0
+2023-09-18 10:21:52.870632,08:15:00,8.0,15,40,carb-rich,09:15:00,8,happy,face almost step improve mother provide,1
+2023-09-19 10:21:52.870632,06:45:00,7.7,30,20,protein-rich,09:45:00,5,neutral,issue debate head material,1
+2023-09-20 10:21:52.870632,05:45:00,5.7,0,50,skipped,07:45:00,5,sad,better defense offer chair phone,1
+2023-09-21 10:21:52.870632,06:00:00,8.1,0,60,skipped,09:00:00,7,happy,great little price station,0
+2023-09-22 10:21:52.870632,09:30:00,8.2,30,30,skipped,11:30:00,7,happy,create style action picture hundred,0
+2023-09-23 10:21:52.870632,07:45:00,6.9,20,30,protein-rich,09:45:00,6,neutral,performance as chair sound soldier local accept,0
+2023-09-24 10:21:52.870632,08:30:00,6.1,10,30,carb-rich,11:30:00,4,sad,purpose themselves true ask sure read,0
+2023-09-25 10:21:52.870632,05:15:00,7.1,30,0,skipped,06:15:00,6,neutral,remember professor down say century student political,1
+2023-09-26 10:21:52.870632,06:15:00,6.2,10,0,heavy,07:15:00,3,sad,low skill voice through relationship voice,1
+2023-09-27 10:21:52.870632,05:45:00,7.5,10,10,light,06:45:00,5,neutral,edge pick water glass one statement,1
+2023-09-28 10:21:52.870632,06:15:00,7.8,5,0,carb-rich,08:15:00,8,happy,whose will give stock,0
+2023-09-29 10:21:52.870632,07:45:00,8.8,20,20,heavy,08:45:00,10,happy,resource answer teacher,1
+2023-09-30 10:21:52.870632,06:45:00,6.3,10,60,heavy,07:45:00,5,neutral,now especially nation sea,1
+2023-10-01 10:21:52.870632,06:00:00,8.7,25,50,light,08:00:00,10,happy,result million food also create,1
+2023-10-02 10:21:52.870632,06:00:00,7.8,0,60,light,09:00:00,9,happy,explain product property newspaper my seat,1
+2023-10-03 10:21:52.870632,05:15:00,5.9,30,10,protein-rich,07:15:00,2,sad,election special pull government,1
+2023-10-04 10:21:52.870632,08:45:00,6.9,0,60,skipped,11:45:00,5,neutral,drug be heavy risk,1
+2023-10-05 10:21:52.870632,08:00:00,5.5,5,50,protein-rich,09:00:00,3,sad,white shoulder catch college responsibility set up,0
+2023-10-06 10:21:52.870632,09:45:00,6.6,30,20,heavy,10:45:00,6,neutral,quality challenge week themselves true fall,1
+2023-10-07 10:21:52.870632,09:00:00,8.1,5,40,light,12:00:00,9,happy,claim late maybe ball,1
+2023-10-08 10:21:52.870632,06:30:00,9.0,10,60,carb-rich,09:30:00,9,happy,spring happen century protect,0
+2023-10-09 10:21:52.870632,09:15:00,8.9,25,0,heavy,11:15:00,9,happy,bill unit role politics foot,1
+2023-10-10 10:21:52.870632,05:00:00,8.3,30,20,skipped,07:00:00,9,happy,loss remember agree she work phone argue generation,1
+2023-10-11 10:21:52.870632,04:45:00,7.5,10,30,heavy,05:45:00,8,happy,while real half provide,1
+2023-10-12 10:21:52.870632,04:45:00,6.4,20,30,heavy,05:45:00,7,neutral,per today enough against hear friend partner,0
+2023-10-13 10:21:52.870632,08:15:00,8.2,5,0,skipped,10:15:00,9,happy,send lose others even hotel,1
+2023-10-14 10:21:52.870632,04:45:00,8.9,30,60,light,06:45:00,10,happy,political special suddenly themselves,0
+2023-10-15 10:21:52.870632,09:30:00,6.2,30,30,light,10:30:00,3,sad,through great sign by college,1
+2023-10-16 10:21:52.870632,06:15:00,8.9,10,20,carb-rich,08:15:00,10,happy,pay set event through film light off,0
+2023-10-17 10:21:52.870632,08:15:00,8.4,5,60,protein-rich,09:15:00,9,happy,keep see nearly analysis create,0
+2023-10-18 10:21:52.870632,04:45:00,5.3,0,30,light,06:45:00,2,sad,add author go hospital,0
+2023-10-19 10:21:52.870632,07:00:00,7.3,0,40,skipped,09:00:00,5,neutral,simply interview someone represent people fly deep,1
+2023-10-20 10:21:52.870632,09:15:00,7.5,10,60,skipped,11:15:00,8,happy,bring significant area,1
+2023-10-21 10:21:52.870632,08:00:00,6.2,20,0,carb-rich,10:00:00,5,neutral,many sell specific interesting present,1
+2023-10-22 10:21:52.870632,04:30:00,6.4,0,60,carb-rich,07:30:00,5,neutral,physical nearly state recently stage million,0
+2023-10-23 10:21:52.870632,05:45:00,8.3,0,60,light,07:45:00,6,neutral,research me keep network war different,0
+2023-10-24 10:21:52.870632,06:30:00,5.6,25,20,protein-rich,09:30:00,3,sad,season door environmental whatever,1
+2023-10-25 10:21:52.870632,07:15:00,7.1,25,30,protein-rich,08:15:00,7,happy,weight size nation recently,0
+2023-10-26 10:21:52.870632,07:15:00,7.0,15,10,heavy,10:15:00,7,happy,study reality staff article,0
+2023-10-27 10:21:52.870632,08:30:00,8.6,10,20,heavy,11:30:00,9,happy,method operation reality,0
+2023-10-28 10:21:52.870632,05:00:00,5.3,15,40,heavy,07:00:00,4,sad,case purpose born give alone,0
+2023-10-29 10:21:52.870632,09:15:00,8.6,0,10,carb-rich,11:15:00,6,neutral,window interesting once set tend economic,1
+2023-10-30 10:21:52.870632,09:00:00,5.0,5,60,protein-rich,12:00:00,2,sad,else board foreign a environmental,0
+2023-10-31 10:21:52.870632,04:30:00,5.2,0,20,skipped,05:30:00,1,sad,wear region manager land drug guess,0
+2023-11-01 10:21:52.870632,08:30:00,6.1,25,50,protein-rich,09:30:00,4,sad,resource program consider mean,1
+2023-11-02 10:21:52.870632,07:30:00,6.5,10,40,skipped,08:30:00,4,sad,pattern property citizen likely,1
+2023-11-03 10:21:52.870632,08:00:00,5.7,0,0,protein-rich,11:00:00,1,sad,page oil show partner line area,0
+2023-11-04 10:21:52.870632,07:30:00,7.1,0,40,carb-rich,10:30:00,6,neutral,safe would happy,0
+2023-11-05 10:21:52.870632,05:15:00,5.1,20,30,carb-rich,08:15:00,2,sad,every professional common answer painting decision,0
+2023-11-06 10:21:52.870632,06:00:00,6.1,5,40,heavy,07:00:00,5,neutral,wonder physical read campaign traditional,0
+2023-11-07 10:21:52.870632,06:15:00,8.6,0,40,heavy,08:15:00,6,neutral,poor speech bag,0
+2023-11-08 10:21:52.870632,04:00:00,8.5,20,50,carb-rich,05:00:00,8,happy,happen property time place fine,1
+2023-11-09 10:21:52.870632,05:30:00,6.6,15,60,carb-rich,06:30:00,8,neutral,decision those effect school meet per factor,0
+2023-11-10 10:21:52.870632,08:45:00,5.6,10,0,heavy,10:45:00,2,sad,operation bank skin,0
+2023-11-11 10:21:52.870632,04:45:00,8.5,15,20,protein-rich,05:45:00,7,happy,get expect message sign course produce bed,1
+2023-11-12 10:21:52.870632,07:45:00,7.8,0,0,heavy,08:45:00,5,neutral,trouble million smile cup various so,0
+2023-11-13 10:21:52.870632,04:45:00,5.2,20,10,skipped,06:45:00,4,sad,trouble husband will side magazine wife take officer,0
+2023-11-14 10:21:52.870632,08:00:00,5.7,5,50,skipped,09:00:00,3,sad,that significant necessary thank end anyone,1
+2023-11-15 10:21:52.870632,06:00:00,7.5,10,0,heavy,07:00:00,5,neutral,water reduce site allow,1
+2023-11-16 10:21:52.870632,06:00:00,6.2,5,10,protein-rich,07:00:00,3,sad,send just others little meeting,1
+2023-11-17 10:21:52.870632,06:30:00,6.1,15,20,light,08:30:00,6,neutral,only mission education true,0
+2023-11-18 10:21:52.870632,04:15:00,8.3,5,60,skipped,06:15:00,8,happy,high hospital law air,0
+2023-11-19 10:21:52.870632,07:30:00,6.9,25,40,protein-rich,09:30:00,6,neutral,conference include standard,0
+2023-11-20 10:21:52.870632,04:30:00,5.4,5,30,carb-rich,06:30:00,4,sad,play process subject hit law school,0
+2023-11-21 10:21:52.870632,06:15:00,5.9,25,50,heavy,08:15:00,3,sad,already relationship water then room any,1
+2023-11-22 10:21:52.870632,07:45:00,7.3,25,40,skipped,09:45:00,9,happy,vote ability window crime world suggest relationship director,1
+2023-11-23 10:21:52.870632,09:00:00,7.4,10,10,carb-rich,12:00:00,7,happy,size plant front movie,0
+2023-11-24 10:21:52.870632,09:30:00,8.5,0,10,skipped,10:30:00,8,happy,morning word return network,1
+2023-11-25 10:21:52.870632,09:45:00,7.8,25,30,light,11:45:00,9,happy,throughout but phone ok,1
+2023-11-26 10:21:52.870632,06:15:00,6.4,25,60,heavy,09:15:00,5,neutral,make hundred chair need,0
+2023-11-27 10:21:52.870632,05:45:00,6.5,30,0,heavy,06:45:00,5,neutral,of education available guy paper letter baby open,1
+2023-11-28 10:21:52.870632,08:30:00,6.0,10,30,carb-rich,11:30:00,3,sad,reach parent tell game two recent on,1
+2023-11-29 10:21:52.870632,07:15:00,8.9,0,0,skipped,08:15:00,7,happy,seven fish deal,0
+2023-11-30 10:21:52.870632,05:00:00,7.3,20,0,carb-rich,07:00:00,5,neutral,whatever serious story glass thing kind,0
+2023-12-01 10:21:52.870632,09:30:00,5.6,30,20,light,12:30:00,2,sad,them old throughout what,1
+2023-12-02 10:21:52.870632,06:00:00,8.7,5,60,skipped,08:00:00,8,happy,coach radio military perhaps nearly building not,0
+2023-12-03 10:21:52.870632,06:15:00,5.9,0,20,carb-rich,09:15:00,5,sad,mean on environment own quality what lawyer,0
+2023-12-04 10:21:52.870632,05:00:00,7.7,30,60,light,08:00:00,7,happy,sense today strategy dog quickly including,1
+2023-12-05 10:21:52.870632,06:30:00,5.4,5,40,heavy,08:30:00,4,sad,resource help economy activity for indeed beyond,1
+2023-12-06 10:21:52.870632,04:45:00,8.7,15,0,heavy,06:45:00,6,neutral,realize their prevent image data most base close,0
+2023-12-07 10:21:52.870632,05:15:00,5.5,30,20,carb-rich,06:15:00,5,sad,fish effort appear four should whom rest,1
+2023-12-08 10:21:52.870632,04:00:00,5.1,25,10,skipped,06:00:00,1,sad,standard rather garden store lose,0
+2023-12-09 10:21:52.870632,04:30:00,6.4,10,40,heavy,07:30:00,6,neutral,attention set remember sell order,1
+2023-12-10 10:21:52.870632,04:45:00,5.4,10,40,carb-rich,06:45:00,4,sad,hotel performance phone design result,1
+2023-12-11 10:21:52.870632,05:30:00,7.3,10,0,protein-rich,07:30:00,7,happy,wrong theory protect work human,1
+2023-12-12 10:21:52.870632,09:45:00,5.3,5,10,heavy,10:45:00,2,sad,certain authority writer get condition face,0
+2023-12-13 10:21:52.870632,09:45:00,7.5,20,0,carb-rich,12:45:00,5,neutral,expert daughter property modern card concern,1
+2023-12-14 10:21:52.870632,08:00:00,6.4,0,10,protein-rich,11:00:00,4,sad,head idea pick interesting which standard,0
+2023-12-15 10:21:52.870632,05:00:00,8.1,30,60,heavy,07:00:00,10,happy,source large commercial according current special challenge,1
+2023-12-16 10:21:52.870632,04:45:00,7.8,10,50,heavy,05:45:00,6,neutral,professional realize again capital,1
+2023-12-17 10:21:52.870632,04:30:00,5.7,15,40,skipped,06:30:00,4,sad,like mission last run effort truth,0
+2023-12-18 10:21:52.870632,07:45:00,5.4,15,0,carb-rich,09:45:00,5,sad,point expect arm recent,1
+2023-12-19 10:21:52.870632,08:30:00,5.1,30,60,skipped,09:30:00,3,sad,as me professor could indicate somebody book think,1
+2023-12-20 10:21:52.870632,05:15:00,7.1,20,0,heavy,07:15:00,6,neutral,push cost analysis deal tv,1
+2023-12-21 10:21:52.870632,06:00:00,9.0,20,30,skipped,07:00:00,9,happy,foot floor main unit team thank low magazine,1
+2023-12-22 10:21:52.870632,07:15:00,5.8,30,40,protein-rich,09:15:00,3,sad,sing base population,1
+2023-12-23 10:21:52.870632,09:45:00,6.8,25,0,heavy,12:45:00,7,neutral,military cost focus,1
+2023-12-24 10:21:52.870632,04:00:00,8.2,15,10,protein-rich,07:00:00,6,neutral,decide into television treat figure black response begin,0
+2023-12-25 10:21:52.870632,07:45:00,8.0,0,0,heavy,09:45:00,4,sad,you kid small fish evidence term,1
+2023-12-26 10:21:52.870632,04:00:00,7.9,15,10,protein-rich,06:00:00,9,happy,benefit final million music,0
+2023-12-27 10:21:52.870632,05:15:00,6.6,15,60,protein-rich,07:15:00,6,neutral,bank take decide,0
+2023-12-28 10:21:52.870632,05:00:00,6.4,5,50,protein-rich,06:00:00,7,neutral,support likely pay,1
+2023-12-29 10:21:52.870632,09:00:00,8.4,10,20,heavy,10:00:00,7,happy,according us owner its nearly baby politics,0
+2023-12-30 10:21:52.870632,07:15:00,8.1,20,10,protein-rich,10:15:00,9,happy,matter she suggest question according hold now know,1
+2023-12-31 10:21:52.870632,09:30:00,7.5,15,10,light,11:30:00,7,happy,them with great,0
+2024-01-01 10:21:52.870632,09:45:00,7.5,0,50,heavy,11:45:00,7,happy,parent true we town sign task whom,1
+2024-01-02 10:21:52.870632,06:00:00,6.1,10,60,heavy,09:00:00,7,neutral,design majority american tonight statement night court,0
+2024-01-03 10:21:52.870632,09:15:00,7.4,15,20,light,10:15:00,8,happy,teach continue participant mean near paper,0
+2024-01-04 10:21:52.870632,06:45:00,6.5,5,20,light,09:45:00,5,neutral,health blood million cut southern imagine,1
+2024-01-05 10:21:52.870632,06:45:00,5.2,20,0,heavy,07:45:00,4,sad,maybe different purpose seek writer hard reduce,1
+2024-01-06 10:21:52.870632,05:15:00,5.1,20,10,skipped,08:15:00,3,sad,pm dog send media board education,1
+2024-01-07 10:21:52.870632,07:00:00,6.0,30,40,carb-rich,08:00:00,5,neutral,which reality letter hold between appear,0
+2024-01-08 10:21:52.870632,05:15:00,7.0,30,40,heavy,06:15:00,6,neutral,method market them itself quality white similar according,0
+2024-01-09 10:21:52.870632,07:30:00,7.8,10,50,light,08:30:00,9,happy,accept pressure chair performance voice theory big,0
+2024-01-10 10:21:52.870632,08:00:00,5.6,10,60,heavy,09:00:00,6,sad,easy campaign good century fall,0
+2024-01-11 10:21:52.870632,08:15:00,5.9,25,20,skipped,10:15:00,6,sad,rate if factor represent,0
+2024-01-12 10:21:52.870632,09:45:00,7.2,25,0,heavy,10:45:00,5,neutral,place involve poor talk energy magazine avoid,1
+2024-01-13 10:21:52.870632,08:45:00,7.2,25,10,heavy,09:45:00,5,neutral,beat discussion ahead,1
+2024-01-14 10:21:52.870632,04:15:00,7.6,15,50,carb-rich,06:15:00,6,neutral,simple main site stop position,0
+2024-01-15 10:21:52.870632,06:15:00,5.8,20,0,skipped,09:15:00,3,sad,themselves determine admit response city population serve,1
+2024-01-16 10:21:52.870632,04:15:00,8.2,15,60,heavy,06:15:00,9,happy,pm financial board,0
+2024-01-17 10:21:52.870632,05:30:00,7.1,5,40,carb-rich,07:30:00,5,neutral,someone try side nice sport,1
+2024-01-18 10:21:52.870632,07:00:00,5.2,30,10,protein-rich,08:00:00,5,sad,effort fund certain whole keep second,1
+2024-01-19 10:21:52.870632,06:15:00,7.2,15,10,carb-rich,09:15:00,5,neutral,include decision person purpose bar score,0
+2024-01-20 10:21:52.870632,05:15:00,5.9,15,40,light,08:15:00,4,sad,system anyone face often perhaps film situation,1
+2024-01-21 10:21:52.870632,06:45:00,6.0,0,50,heavy,09:45:00,2,sad,heart example participant political station series,1
+2024-01-22 10:21:52.870632,09:45:00,6.0,5,50,heavy,12:45:00,5,neutral,despite like compare member help century,0
+2024-01-23 10:21:52.870632,07:00:00,8.7,20,50,carb-rich,10:00:00,10,happy,skill tough outside return who these apply,1
+2024-01-24 10:21:52.870632,06:00:00,6.3,15,20,heavy,09:00:00,6,neutral,meeting standard accept surface,1
+2024-01-25 10:21:52.870632,06:15:00,7.1,30,0,skipped,07:15:00,7,happy,cultural yet voice air set again exactly,0
+2024-01-26 10:21:52.870632,07:30:00,5.1,5,10,heavy,08:30:00,1,sad,change night child catch exist down catch,1
+2024-01-27 10:21:52.870632,09:00:00,5.6,10,0,heavy,12:00:00,5,sad,style better cell far enter fall,1
+2024-01-28 10:21:52.870632,05:15:00,6.8,15,0,heavy,08:15:00,4,sad,near face gas through,0
+2024-01-29 10:21:52.870632,08:15:00,7.8,25,40,light,10:15:00,6,neutral,late bring feel choice sometimes bill,0
+2024-01-30 10:21:52.870632,06:30:00,8.6,30,60,protein-rich,09:30:00,9,happy,floor republican one and chance,1
+2024-01-31 10:21:52.870632,04:00:00,7.4,10,60,skipped,05:00:00,8,happy,lose party picture economic system despite,1
+2024-02-01 10:21:52.870632,06:45:00,6.8,20,10,protein-rich,09:45:00,7,neutral,discuss loss option name part,0
+2024-02-02 10:21:52.870632,05:30:00,8.2,0,20,carb-rich,08:30:00,7,happy,spring certainly include total specific,1
+2024-02-03 10:21:52.870632,04:30:00,8.9,0,30,protein-rich,06:30:00,9,happy,why itself job idea budget on reflect,1
+2024-02-04 10:21:52.870632,09:45:00,7.3,15,50,heavy,10:45:00,6,neutral,finish southern indicate memory fact baby ball for,1
+2024-02-05 10:21:52.870632,07:15:00,7.8,5,0,light,08:15:00,7,happy,crime no painting,0
+2024-02-06 10:21:52.870632,06:15:00,8.6,20,20,heavy,08:15:00,9,happy,key sound series stand beautiful,0
+2024-02-07 10:21:52.870632,07:30:00,6.4,20,10,heavy,08:30:00,4,sad,none industry writer wall billion city speak,1
+2024-02-08 10:21:52.870632,09:15:00,7.6,5,40,carb-rich,10:15:00,8,happy,support between cost never old cut,0
+2024-02-09 10:21:52.870632,06:00:00,5.2,5,40,carb-rich,09:00:00,6,sad,design scene drive test already information,0
+2024-02-10 10:21:52.870632,08:45:00,6.6,5,10,heavy,09:45:00,6,neutral,still compare outside woman far goal color boy,1
+2024-02-11 10:21:52.870632,04:30:00,8.7,25,10,protein-rich,07:30:00,7,happy,entire place investment large accept,0
+2024-02-12 10:21:52.870632,07:00:00,6.8,25,10,protein-rich,10:00:00,6,neutral,know think yeah table employee direction,0
+2024-02-13 10:21:52.870632,06:45:00,8.3,30,0,heavy,07:45:00,6,neutral,box step green organization around public expert,0
+2024-02-14 10:21:52.870632,09:45:00,8.9,25,60,heavy,12:45:00,9,happy,old sea guy yard lawyer western half edge,0
+2024-02-15 10:21:52.870632,07:00:00,5.7,5,20,protein-rich,09:00:00,5,sad,series most baby cultural partner movie maybe,1
+2024-02-16 10:21:52.870632,05:00:00,6.4,5,30,carb-rich,06:00:00,7,neutral,car commercial voice natural,1
+2024-02-17 10:21:52.870632,05:30:00,8.6,20,30,light,08:30:00,10,happy,form the sound bad stay parent operation,1
+2024-02-18 10:21:52.870632,05:30:00,5.2,15,50,heavy,06:30:00,3,sad,arrive language population approach when with reality,0
+2024-02-19 10:21:52.870632,09:30:00,8.7,15,50,light,12:30:00,8,happy,second allow chance hour young agreement discover,0
+2024-02-20 10:21:52.870632,06:45:00,7.5,20,50,carb-rich,07:45:00,7,happy,beautiful board party get account,1
+2024-02-21 10:21:52.870632,09:45:00,8.5,20,10,skipped,12:45:00,8,happy,direction for third explain call,0
+2024-02-22 10:21:52.870632,09:15:00,5.9,5,0,protein-rich,11:15:00,4,sad,eight hot whether already effect guess,1
+2024-02-23 10:21:52.870632,05:15:00,5.7,20,30,carb-rich,08:15:00,3,sad,land go dark son,0
+2024-02-24 10:21:52.870632,09:15:00,5.5,15,50,protein-rich,10:15:00,5,sad,forget bar keep term or remember north,0
+2024-02-25 10:21:52.870632,06:45:00,6.8,5,50,skipped,09:45:00,6,neutral,growth protect wait style up important drive party,1
+2024-02-26 10:21:52.870632,04:30:00,7.1,20,30,skipped,06:30:00,5,neutral,officer real whatever hear risk someone whether,0
+2024-02-27 10:21:52.870632,06:15:00,8.9,5,60,light,07:15:00,9,happy,herself tend alone suddenly mission work hope,0
+2024-02-28 10:21:52.870632,06:30:00,8.2,20,20,skipped,08:30:00,8,happy,word national you,1
+2024-02-29 10:21:52.870632,08:30:00,7.6,10,60,light,10:30:00,8,happy,seven energy off person like blood really,1
+2024-03-01 10:21:52.870632,06:15:00,7.1,5,20,light,08:15:00,7,happy,remain note relationship interest society none,0
+2024-03-02 10:21:52.870632,07:15:00,8.7,15,30,skipped,09:15:00,7,happy,sometimes want first,0
+2024-03-03 10:21:52.870632,06:15:00,5.7,5,50,carb-rich,09:15:00,4,sad,try thus stage executive painting four,0
+2024-03-04 10:21:52.870632,05:45:00,7.1,25,50,carb-rich,08:45:00,7,happy,effect image cause discover commercial question,1
+2024-03-05 10:21:52.870632,04:30:00,8.2,15,10,carb-rich,06:30:00,9,happy,institution often inside magazine nation investment,0
+2024-03-06 10:21:52.870632,07:00:00,7.4,30,60,light,10:00:00,6,neutral,entire them care red,0
+2024-03-07 10:21:52.870632,04:45:00,5.1,20,0,light,06:45:00,3,sad,guess interesting nice congress learn either,0
+2024-03-08 10:21:52.870632,07:45:00,8.4,20,60,heavy,08:45:00,10,happy,affect former ground return shake fast,0
+2024-03-09 10:21:52.870632,08:45:00,5.3,20,10,heavy,10:45:00,3,sad,stop the top appear create,0
+2024-03-10 10:21:52.870632,08:00:00,7.4,5,50,heavy,10:00:00,6,neutral,quickly inside character morning technology,0
+2024-03-11 10:21:52.870632,06:15:00,6.1,10,60,carb-rich,09:15:00,7,neutral,ready fine on capital nature name,0
+2024-03-12 10:21:52.870632,07:00:00,8.2,0,10,light,09:00:00,5,neutral,modern lot put all bad yard picture,0
+2024-03-13 10:21:52.870632,06:45:00,6.8,10,0,light,08:45:00,7,neutral,young explain middle response,1
+2024-03-14 10:21:52.870632,09:15:00,8.8,30,40,protein-rich,11:15:00,8,happy,door none company others guy appear practice,0
+2024-03-15 10:21:52.870632,09:00:00,6.9,15,40,light,10:00:00,5,neutral,street poor friend,0
+2024-03-16 10:21:52.870632,05:00:00,6.0,5,50,protein-rich,06:00:00,3,sad,marriage meet particularly turn,0
+2024-03-17 10:21:52.870632,04:00:00,7.5,25,40,carb-rich,07:00:00,8,happy,himself of main job,0
+2024-03-18 10:21:52.870632,05:00:00,7.7,5,30,skipped,06:00:00,8,happy,leg organization list however true truth,1
+2024-03-19 10:21:52.870632,09:45:00,7.4,5,50,skipped,12:45:00,5,neutral,third cover weight public prepare once,0
+2024-03-20 10:21:52.870632,09:15:00,5.3,20,10,carb-rich,10:15:00,2,sad,deal manage rich fly almost student,1
+2024-03-21 10:21:52.870632,07:30:00,7.9,5,10,skipped,08:30:00,8,happy,miss goal add way both,1
+2024-03-22 10:21:52.870632,07:15:00,6.7,5,30,light,10:15:00,6,neutral,summer arrive mouth group picture receive,0
+2024-03-23 10:21:52.870632,07:00:00,5.4,5,20,light,09:00:00,1,sad,million building couple factor remain enjoy,0
+2024-03-24 10:21:52.870632,07:45:00,5.6,15,60,skipped,09:45:00,3,sad,student only news dog candidate him,0
+2024-03-25 10:21:52.870632,05:00:00,6.6,25,60,heavy,06:00:00,5,neutral,health successful both so model knowledge less power,1
+2024-03-26 10:21:52.870632,04:45:00,8.4,15,20,skipped,07:45:00,6,neutral,sing however reason sport,0
+2024-03-27 10:21:52.870632,05:15:00,6.3,25,60,carb-rich,06:15:00,5,neutral,hit season capital support people customer popular alone,1
+2024-03-28 10:21:52.870632,07:00:00,8.0,25,60,protein-rich,08:00:00,7,happy,simply security itself leg itself protect,0
+2024-03-29 10:21:52.870632,06:15:00,5.3,10,60,protein-rich,09:15:00,4,sad,bed relate develop real today,1
+2024-03-30 10:21:52.870632,04:45:00,6.8,30,40,light,06:45:00,4,sad,visit just begin institution see response player,1
+2024-03-31 10:21:52.870632,06:15:00,5.7,30,10,skipped,09:15:00,4,sad,forget could stop oil,1
+2024-04-01 10:21:52.870632,09:15:00,5.8,0,10,heavy,11:15:00,3,sad,job next argue happen court should,0
+2024-04-02 10:21:52.870632,04:45:00,7.8,0,20,heavy,06:45:00,6,neutral,dream nearly if call,1
+2024-04-03 10:21:52.870632,05:15:00,8.4,15,30,skipped,08:15:00,8,happy,use religious different talk service leg,0
+2024-04-04 10:21:52.870632,08:15:00,5.3,5,30,heavy,09:15:00,5,sad,sport that business note center at,0
+2024-04-05 10:21:52.870632,06:30:00,5.2,15,60,skipped,07:30:00,3,sad,three fill grow beautiful though,0
+2024-04-06 10:21:52.870632,08:00:00,5.5,30,10,skipped,11:00:00,3,sad,similar common himself down almost,1
+2024-04-07 10:21:52.870632,06:30:00,8.1,25,60,carb-rich,09:30:00,10,happy,another last situation meeting,0
+2024-04-08 10:21:52.870632,07:30:00,8.7,10,10,protein-rich,10:30:00,8,happy,shake back seek drug yourself herself fly production,1
+2024-04-09 10:21:52.870632,07:45:00,8.4,30,10,heavy,08:45:00,9,happy,example modern imagine rest yourself machine away,1
+2024-04-10 10:21:52.870632,06:30:00,6.9,30,0,light,09:30:00,5,neutral,onto rise argue who,1
+2024-04-11 10:21:52.870632,05:15:00,7.6,5,60,carb-rich,07:15:00,7,happy,also war trial personal various,0
+2024-04-12 10:21:52.870632,06:30:00,8.9,5,10,protein-rich,07:30:00,8,happy,write cup rich home,0
+2024-04-13 10:21:52.870632,09:30:00,6.1,5,30,protein-rich,10:30:00,5,neutral,site music wear person serve clearly,1
+2024-04-14 10:21:52.870632,04:30:00,7.9,20,30,protein-rich,05:30:00,9,happy,arm what article staff speech teach bed,1
+2024-04-15 10:21:52.870632,06:45:00,8.8,10,30,heavy,07:45:00,9,happy,or number watch child yes camera easy,0
+2024-04-16 10:21:52.870632,08:15:00,5.0,10,30,protein-rich,10:15:00,5,sad,rise whose fight,1
+2024-04-17 10:21:52.870632,07:15:00,7.2,5,0,heavy,09:15:00,4,sad,series player to message,1
+2024-04-18 10:21:52.870632,09:45:00,6.9,20,50,carb-rich,10:45:00,7,neutral,man suggest serious something own young environmental,0
+2024-04-19 10:21:52.870632,09:15:00,5.7,5,30,carb-rich,11:15:00,4,sad,truth fill describe represent,1
+2024-04-20 10:21:52.870632,07:00:00,8.3,25,30,heavy,10:00:00,8,happy,people find response first simply every,1
+2024-04-21 10:21:52.870632,05:15:00,7.1,15,60,protein-rich,07:15:00,6,neutral,marriage media music exactly save,0
+2024-04-22 10:21:52.870632,04:30:00,7.3,25,10,heavy,07:30:00,5,neutral,owner stop shoulder usually break network strong,1
+2024-04-23 10:21:52.870632,09:15:00,5.1,10,0,skipped,11:15:00,4,sad,hand decade study always church research heavy,0
+2024-04-24 10:21:52.870632,05:30:00,7.3,30,50,heavy,07:30:00,8,happy,close now choose above everyone choose ago level,1
+2024-04-25 10:21:52.870632,08:45:00,8.1,20,20,light,11:45:00,9,happy,pick air drop raise point meet total morning,0
+2024-04-26 10:21:52.870632,09:45:00,7.3,5,30,skipped,12:45:00,8,happy,writer medical policy degree media worker,0
+2024-04-27 10:21:52.870632,05:15:00,5.7,30,0,skipped,08:15:00,3,sad,live may training party hot opportunity area job,1
+2024-04-28 10:21:52.870632,07:45:00,8.0,30,50,heavy,10:45:00,9,happy,push example newspaper note,1
+2024-04-29 10:21:52.870632,08:45:00,5.6,20,40,heavy,11:45:00,3,sad,wrong interesting up,1
+2024-04-30 10:21:52.870632,08:15:00,6.1,20,0,light,09:15:00,5,neutral,health forward question every,0
+2024-05-01 10:21:52.870632,07:00:00,5.5,0,40,light,09:00:00,2,sad,dog theory network direction,1
+2024-05-02 10:21:52.870632,06:30:00,7.1,15,60,heavy,09:30:00,6,neutral,more card way onto tough idea,1
+2024-05-03 10:21:52.870632,05:15:00,7.9,15,60,carb-rich,08:15:00,8,happy,about despite question sometimes song probably,0
+2024-05-04 10:21:52.870632,06:15:00,8.0,10,0,light,08:15:00,8,happy,system million around discover about,0
+2024-05-05 10:21:52.870632,07:45:00,8.7,5,30,carb-rich,09:45:00,9,happy,base than international argue form help goal,0
+2024-05-06 10:21:52.870632,07:15:00,5.5,5,60,light,08:15:00,4,sad,final area while economy above create oil,1
+2024-05-07 10:21:52.870632,04:45:00,6.4,30,30,skipped,07:45:00,6,neutral,theory believe decide usually yourself guy too,0
+2024-05-08 10:21:52.870632,08:15:00,5.8,15,50,light,09:15:00,4,sad,improve left free big season low,1
+2024-05-09 10:21:52.870632,05:45:00,7.4,25,0,carb-rich,08:45:00,7,happy,discover smile indeed travel,1
+2024-05-10 10:21:52.870632,07:30:00,5.6,10,10,protein-rich,09:30:00,3,sad,military meeting recognize per mr forget age,0
+2024-05-11 10:21:52.870632,05:30:00,6.7,5,60,carb-rich,08:30:00,6,neutral,ball them standard value,0
+2024-05-12 10:21:52.870632,08:15:00,5.0,30,50,carb-rich,10:15:00,2,sad,make price mr training,0
+2024-05-13 10:21:52.870632,06:00:00,6.4,0,30,light,07:00:00,6,neutral,behavior answer feel special everyone region,1
+2024-05-14 10:21:52.870632,08:45:00,6.4,5,30,carb-rich,09:45:00,4,sad,institution everybody how fish source onto,1
+2024-05-15 10:21:52.870632,07:00:00,6.9,30,40,skipped,09:00:00,8,neutral,line education election land should part source,0
+2024-05-16 10:21:52.870632,04:00:00,7.3,25,30,carb-rich,06:00:00,8,happy,bring drop security hotel story off,0
+2024-05-17 10:21:52.870632,07:45:00,5.6,20,20,light,08:45:00,2,sad,attention establish cold business performance,0
+2024-05-18 10:21:52.870632,07:15:00,6.1,20,40,light,09:15:00,3,sad,moment degree debate set meet audience owner,0
+2024-05-19 10:21:52.870632,07:00:00,6.9,25,60,light,09:00:00,7,neutral,hand of try remember just wife floor,1
+2024-05-20 10:21:52.870632,06:00:00,8.6,10,10,light,07:00:00,9,happy,they upon cultural trip star congress,1
+2024-05-21 10:21:52.870632,08:00:00,6.6,0,10,carb-rich,09:00:00,3,sad,difficult new anyone require above itself month do,0
+2024-05-22 10:21:52.870632,08:15:00,6.5,0,30,heavy,10:15:00,3,sad,life stuff along mrs important idea,0
+2024-05-23 10:21:52.870632,07:45:00,6.3,10,60,skipped,10:45:00,7,neutral,last none us century pretty,1
+2024-05-24 10:21:52.870632,05:30:00,5.4,20,10,carb-rich,06:30:00,2,sad,action finish color ever,0
+2024-05-25 10:21:52.870632,09:00:00,7.8,10,10,carb-rich,11:00:00,8,happy,any president to past,1
+2024-05-26 10:21:52.870632,06:45:00,8.3,25,10,skipped,08:45:00,8,happy,support opportunity herself evidence board bed,1
+2024-05-27 10:21:52.870632,05:00:00,7.0,5,30,protein-rich,08:00:00,7,happy,development doctor institution,1
+2024-05-28 10:21:52.870632,09:00:00,5.7,20,40,carb-rich,11:00:00,5,sad,minute place cause purpose,1
+2024-05-29 10:21:52.870632,09:00:00,5.4,15,10,carb-rich,11:00:00,2,sad,television officer view scene main dream memory,0
+2024-05-30 10:21:52.870632,07:30:00,5.3,15,60,protein-rich,10:30:00,5,sad,get table idea relate doctor name so,1
+2024-05-31 10:21:52.870632,07:15:00,8.4,0,30,carb-rich,08:15:00,9,happy,good travel red leader force,0
+2024-06-01 10:21:52.870632,06:45:00,7.5,20,0,carb-rich,07:45:00,7,happy,tax attorney sit reflect responsibility window send feel,1
+2024-06-02 10:21:52.870632,09:30:00,8.1,25,60,light,11:30:00,9,happy,structure table forget continue,0
+2024-06-03 10:21:52.870632,04:45:00,6.7,25,30,carb-rich,07:45:00,7,neutral,picture two exist economic,1
+2024-06-04 10:21:52.870632,06:15:00,6.0,20,40,skipped,07:15:00,3,sad,nice go job,1
+2024-06-05 10:21:52.870632,05:45:00,5.4,10,20,carb-rich,07:45:00,2,sad,might approach several lawyer myself avoid,1
+2024-06-06 10:21:52.870632,04:15:00,8.5,10,60,carb-rich,05:15:00,9,happy,participant serious quite role into,0
+2024-06-07 10:21:52.870632,07:30:00,8.1,5,10,carb-rich,08:30:00,6,neutral,kitchen realize main too there,1
+2024-06-08 10:21:52.870632,04:30:00,8.6,20,0,heavy,05:30:00,7,happy,set book include yeah step doctor,1
+2024-06-09 10:21:52.870632,07:15:00,7.5,0,0,heavy,08:15:00,7,happy,great choose nothing apply firm why strategy spring,1
+2024-06-10 10:21:52.870632,04:00:00,7.8,0,60,protein-rich,05:00:00,8,happy,religious during camera,1
+2024-06-11 10:21:52.870632,06:30:00,7.8,0,50,light,08:30:00,6,neutral,white sport describe girl imagine green quite,1
+2024-06-12 10:21:52.870632,09:45:00,7.2,30,60,carb-rich,11:45:00,5,neutral,song son commercial read building technology one worry,0
+2024-06-13 10:21:52.870632,06:00:00,8.5,5,50,protein-rich,07:00:00,10,happy,help wind among push at support majority,0
+2024-06-14 10:21:52.870632,04:45:00,5.7,10,20,skipped,05:45:00,5,sad,reality agreement understand body college firm body general,0
+2024-06-15 10:21:52.870632,05:15:00,5.3,5,30,heavy,08:15:00,3,sad,control look choice on team opportunity,0
+2024-06-16 10:21:52.870632,09:30:00,6.7,15,60,protein-rich,11:30:00,6,neutral,trip support who professor,0
+2024-06-17 10:21:52.870632,08:15:00,5.5,25,20,heavy,09:15:00,5,sad,forget those matter election,1
+2024-06-18 10:21:52.870632,09:15:00,5.2,10,60,carb-rich,10:15:00,6,sad,ask husband or likely close national charge,0
+2024-06-19 10:21:52.870632,09:45:00,8.3,25,60,carb-rich,11:45:00,7,happy,use marriage process among,0
+2024-06-20 10:21:52.870632,08:45:00,5.4,0,30,skipped,09:45:00,2,sad,war process my cut seek dark bad,1
+2024-06-21 10:21:52.870632,08:45:00,7.1,20,0,light,09:45:00,5,neutral,company yourself center rule bill example,0
+2024-06-22 10:21:52.870632,05:45:00,7.9,25,60,light,07:45:00,7,happy,into herself keep similar glass contain interview,0
+2024-06-23 10:21:52.870632,05:30:00,7.2,30,60,carb-rich,07:30:00,5,neutral,in risk hear better recognize,0
+2024-06-24 10:21:52.870632,09:15:00,6.7,30,30,heavy,10:15:00,8,neutral,meeting six wide which trip together quite,1
+2024-06-25 10:21:52.870632,09:15:00,5.5,10,0,skipped,11:15:00,4,sad,say along sound course animal benefit,0
+2024-06-26 10:21:52.870632,09:30:00,8.3,5,0,skipped,10:30:00,9,happy,top company marriage bill,1
+2024-06-27 10:21:52.870632,07:45:00,5.1,30,10,light,10:45:00,4,sad,science stock way,0
+2024-06-28 10:21:52.870632,07:30:00,6.8,0,50,carb-rich,09:30:00,4,sad,part fine figure surface,1
+2024-06-29 10:21:52.870632,08:15:00,9.0,25,60,carb-rich,09:15:00,10,happy,its off whose us light,0
+2024-06-30 10:21:52.870632,05:30:00,6.1,10,30,carb-rich,08:30:00,5,neutral,pattern tv imagine difference worker budget common,1
+2024-07-01 10:21:52.870632,05:00:00,7.3,25,50,light,08:00:00,8,happy,high down field market,0
+2024-07-02 10:21:52.870632,07:00:00,8.9,15,20,carb-rich,10:00:00,8,happy,major foreign thank edge behavior door,0
+2024-07-03 10:21:52.870632,09:45:00,6.4,0,40,heavy,10:45:00,5,neutral,science much across from condition remain certain,1
+2024-07-04 10:21:52.870632,08:00:00,7.6,25,60,carb-rich,10:00:00,7,happy,onto beautiful question,0
+2024-07-05 10:21:52.870632,05:15:00,5.9,5,20,protein-rich,08:15:00,3,sad,available task ask meet admit five party there,0
+2024-07-06 10:21:52.870632,04:00:00,7.1,10,60,skipped,05:00:00,6,neutral,rule marriage quickly card when,0
+2024-07-07 10:21:52.870632,07:15:00,6.9,25,0,protein-rich,10:15:00,5,neutral,rather political second true go,1
+2024-07-08 10:21:52.870632,05:45:00,8.1,0,40,light,08:45:00,5,neutral,officer smile approach tonight street nothing among simply,1
+2024-07-09 10:21:52.870632,09:00:00,5.2,5,10,protein-rich,12:00:00,2,sad,keep by recognize certain time beautiful even become,1
+2024-07-10 10:21:52.870632,04:15:00,8.7,30,60,protein-rich,07:15:00,7,happy,floor simply own would,0
+2024-07-11 10:21:52.870632,05:45:00,5.0,5,30,carb-rich,08:45:00,4,sad,day cell mean good west voice statement,1
+2024-07-12 10:21:52.870632,08:00:00,8.4,5,0,light,10:00:00,8,happy,let would knowledge serve,0
+2024-07-13 10:21:52.870632,04:45:00,6.1,25,0,heavy,07:45:00,6,neutral,sure song new four heart top,1
+2024-07-14 10:21:52.870632,06:30:00,7.8,20,0,protein-rich,07:30:00,5,neutral,office several issue media beautiful go down,1
+2024-07-15 10:21:52.870632,04:30:00,6.1,10,10,carb-rich,07:30:00,2,sad,stuff require look tree,1
+2024-07-16 10:21:52.870632,08:45:00,5.9,25,30,carb-rich,09:45:00,7,sad,admit young will mention real republican,0
+2024-07-17 10:21:52.870632,05:45:00,7.5,0,20,skipped,07:45:00,5,neutral,back success close certainly wonder natural,1
+2024-07-18 10:21:52.870632,05:30:00,8.7,10,10,protein-rich,06:30:00,7,happy,pull if group administration,0
+2024-07-19 10:21:52.870632,05:45:00,8.2,25,10,light,06:45:00,7,happy,physical whose image firm drug else congress,1
+2024-07-20 10:21:52.870632,05:45:00,6.3,0,40,carb-rich,06:45:00,5,neutral,among score fire put until myself our born,0
+2024-07-21 10:21:52.870632,07:30:00,8.5,10,20,protein-rich,10:30:00,8,happy,we fine end morning,1
+2024-07-22 10:21:52.870632,05:15:00,6.1,30,30,protein-rich,07:15:00,4,sad,hear matter change environmental american,1
+2024-07-23 10:21:52.870632,09:30:00,7.9,25,0,carb-rich,11:30:00,5,neutral,about agree science sea somebody prepare seven room,0
+2024-07-24 10:21:52.870632,04:30:00,8.5,30,20,heavy,07:30:00,7,happy,might standard ok agency cover production,0
+2024-07-25 10:21:52.870632,06:30:00,6.4,10,50,heavy,07:30:00,5,neutral,over down hospital whose bring walk matter,0
+2024-07-26 10:21:52.870632,05:45:00,8.6,30,0,light,08:45:00,10,happy,rule myself accept you,1
+2024-07-27 10:21:52.870632,09:00:00,7.6,5,0,skipped,10:00:00,7,happy,would common past commercial,1
+2024-07-28 10:21:52.870632,09:00:00,6.6,0,40,skipped,12:00:00,4,sad,on from professor guess,1
+2024-07-29 10:21:52.870632,05:30:00,6.5,20,60,carb-rich,07:30:00,6,neutral,professional either very chance minute some us,0
+2024-07-30 10:21:52.870632,08:00:00,8.4,25,20,heavy,10:00:00,6,neutral,so sign may,1
+2024-07-31 10:21:52.870632,06:45:00,8.5,10,60,protein-rich,08:45:00,8,happy,factor subject republican look air his appear,0
+2024-08-01 10:21:52.870632,04:30:00,6.9,0,30,carb-rich,06:30:00,5,neutral,hot above audience seven traditional field ball,1
+2024-08-02 10:21:52.870632,05:15:00,5.6,15,20,light,07:15:00,3,sad,travel spend system chair career article,1
+2024-08-03 10:21:52.870632,09:00:00,7.9,5,40,carb-rich,12:00:00,10,happy,response look evening certainly,0
+2024-08-04 10:21:52.870632,06:30:00,6.5,5,50,carb-rich,09:30:00,5,neutral,student class action pretty nothing tell identify east,1
+2024-08-05 10:21:52.870632,06:45:00,7.5,25,20,protein-rich,07:45:00,5,neutral,statement either picture lose agent,0
+2024-08-06 10:21:52.870632,07:30:00,5.4,0,0,light,09:30:00,1,sad,total process benefit allow stay call these,1
+2024-08-07 10:21:52.870632,09:30:00,5.5,0,20,carb-rich,10:30:00,1,sad,they political red firm game,1
+2024-08-08 10:21:52.870632,04:00:00,5.2,30,20,light,06:00:00,1,sad,history expect brother,1
+2024-08-09 10:21:52.870632,05:45:00,6.9,25,0,carb-rich,06:45:00,6,neutral,sea discussion newspaper pay car,0
+2024-08-10 10:21:52.870632,04:30:00,5.0,10,20,protein-rich,07:30:00,3,sad,listen hold reflect hour,1
+2024-08-11 10:21:52.870632,08:00:00,7.3,25,60,protein-rich,11:00:00,8,happy,site money the sure which budget,0
+2024-08-12 10:21:52.870632,04:15:00,6.1,30,40,heavy,07:15:00,4,sad,beat similar while to,0
+2024-08-13 10:21:52.870632,04:30:00,6.7,10,0,heavy,06:30:00,6,neutral,during space involve business,1
+2024-08-14 10:21:52.870632,06:30:00,5.7,5,40,protein-rich,07:30:00,5,sad,season government bag so sport,1
+2024-08-15 10:21:52.870632,07:45:00,6.1,5,60,carb-rich,09:45:00,5,neutral,decision provide hand ten form general recognize,1
+2024-08-16 10:21:52.870632,07:30:00,5.1,10,20,heavy,10:30:00,1,sad,similar drive either upon against dinner,1
+2024-08-17 10:21:52.870632,08:45:00,6.2,10,60,skipped,10:45:00,4,sad,protect material institution edge brother tonight end policy,0
+2024-08-18 10:21:52.870632,08:45:00,5.2,15,0,protein-rich,11:45:00,2,sad,time or particular seven collection,0
+2024-08-19 10:21:52.870632,08:30:00,5.9,5,0,protein-rich,09:30:00,3,sad,continue live put,0
+2024-08-20 10:21:52.870632,07:30:00,6.0,20,50,light,09:30:00,6,neutral,value country man involve forget news follow,1
+2024-08-21 10:21:52.870632,04:00:00,8.9,0,40,protein-rich,07:00:00,10,happy,answer little sister,0
+2024-08-22 10:21:52.870632,06:30:00,7.7,30,20,heavy,08:30:00,7,happy,travel general account health,1
+2024-08-23 10:21:52.870632,05:00:00,8.1,15,60,carb-rich,07:00:00,9,happy,realize reveal west,1
+2024-08-24 10:21:52.870632,09:15:00,6.3,0,20,carb-rich,11:15:00,2,sad,land alone trial western everything peace animal,0
+2024-08-25 10:21:52.870632,04:45:00,6.2,0,0,skipped,05:45:00,3,sad,of under simply part operation grow,0
+2024-08-26 10:21:52.870632,08:45:00,6.8,0,10,protein-rich,10:45:00,6,neutral,score ball suddenly position laugh treat figure,1
+2024-08-27 10:21:52.870632,09:00:00,6.9,30,20,heavy,11:00:00,4,sad,control moment power,0
+2024-08-28 10:21:52.870632,06:45:00,5.9,20,50,carb-rich,07:45:00,4,sad,father fast onto edge,1
+2024-08-29 10:21:52.870632,09:00:00,8.3,20,30,skipped,12:00:00,7,happy,area feeling level music,0
+2024-08-30 10:21:52.870632,06:15:00,5.0,5,40,skipped,07:15:00,5,sad,whatever do voice first,0
+2024-08-31 10:21:52.870632,04:00:00,8.2,10,10,light,07:00:00,6,neutral,long on strategy i,1
+2024-09-01 10:21:52.870632,06:15:00,8.8,30,30,protein-rich,09:15:00,9,happy,themselves person although return,1
+2024-09-02 10:21:52.870632,05:45:00,7.6,15,20,heavy,06:45:00,7,happy,similar go hour bit prevent question easy,0
+2024-09-03 10:21:52.870632,07:15:00,7.1,25,40,protein-rich,10:15:00,6,neutral,us dinner significant effect,0
+2024-09-04 10:21:52.870632,04:00:00,7.5,10,50,skipped,06:00:00,5,neutral,generation machine office discussion,1
+2024-09-05 10:21:52.870632,07:00:00,7.0,0,0,heavy,09:00:00,4,sad,stage state economy could himself our mrs,1
+2024-09-06 10:21:52.870632,09:00:00,6.6,20,10,skipped,10:00:00,5,neutral,machine continue show far foreign one after,1
+2024-09-07 10:21:52.870632,07:15:00,5.2,10,20,light,10:15:00,4,sad,notice allow same actually consumer war lawyer,1
+2024-09-08 10:21:52.870632,05:15:00,7.4,0,10,carb-rich,06:15:00,4,sad,close heavy society station view street,1
+2024-09-09 10:21:52.870632,05:00:00,8.7,25,0,light,08:00:00,7,happy,recent read face treat,0
+2024-09-10 10:21:52.870632,05:15:00,7.1,25,40,carb-rich,08:15:00,8,happy,body consumer since concern spring,0
+2024-09-11 10:21:52.870632,06:00:00,8.3,15,30,heavy,07:00:00,10,happy,understand consumer us reach,0
+2024-09-12 10:21:52.870632,08:45:00,7.1,15,40,skipped,10:45:00,7,happy,paper early piece somebody,1
+2024-09-13 10:21:52.870632,07:00:00,5.5,5,60,carb-rich,09:00:00,3,sad,sing resource billion fire hand,0
+2024-09-14 10:21:52.870632,05:30:00,6.4,30,10,heavy,06:30:00,5,neutral,figure meeting answer her himself yet,0
+2024-09-15 10:21:52.870632,07:00:00,5.8,30,50,protein-rich,09:00:00,4,sad,create raise much dog however,1
+2024-09-16 10:21:52.870632,04:00:00,6.8,5,10,carb-rich,06:00:00,4,sad,every interest right page east mouth,0
+2024-09-17 10:21:52.870632,07:15:00,5.7,15,10,heavy,10:15:00,2,sad,direction beautiful interview will,0
+2024-09-18 10:21:52.870632,04:15:00,6.1,15,50,heavy,05:15:00,7,neutral,leader little reason doctor describe run him,1
+2024-09-19 10:21:52.870632,04:30:00,5.9,10,10,skipped,06:30:00,4,sad,for measure team thing audience,1
+2024-09-20 10:21:52.870632,08:15:00,7.1,5,30,heavy,10:15:00,8,happy,good tough course,0
+2024-09-21 10:21:52.870632,04:30:00,7.9,10,60,heavy,07:30:00,8,happy,wind create top site rule relationship,0
+2024-09-22 10:21:52.870632,08:45:00,7.0,10,60,protein-rich,09:45:00,8,happy,early sound evidence most bad between even,0
+2024-09-23 10:21:52.870632,06:30:00,7.2,30,0,protein-rich,08:30:00,5,neutral,physical main available tend,0
+2024-09-24 10:21:52.870632,06:30:00,8.0,25,40,carb-rich,09:30:00,7,happy,billion cut to either wear cultural,0
+2024-09-25 10:21:52.870632,09:45:00,6.4,5,50,carb-rich,11:45:00,5,neutral,seat raise pattern appear green idea,1
+2024-09-26 10:21:52.870632,06:15:00,7.6,20,50,skipped,07:15:00,7,happy,physical none need trade other all even,1
+2024-09-27 10:21:52.870632,07:30:00,5.1,30,10,carb-rich,09:30:00,4,sad,our put trip,1
+2024-09-28 10:21:52.870632,07:45:00,5.2,20,60,protein-rich,10:45:00,5,sad,point generation artist clear change benefit,0
+2024-09-29 10:21:52.870632,08:45:00,8.6,20,20,heavy,10:45:00,9,happy,bar term else important important,1
+2024-09-30 10:21:52.870632,05:00:00,6.3,10,30,carb-rich,07:00:00,5,neutral,leg sister food success value cost man,0
+2024-10-01 10:21:52.870632,07:00:00,5.6,5,20,heavy,09:00:00,3,sad,capital commercial half beat whether two with,0
+2024-10-02 10:21:52.870632,09:00:00,8.9,0,20,skipped,12:00:00,5,neutral,system out pass remember cultural account value television,0
+2024-10-03 10:21:52.870632,07:30:00,7.4,15,60,light,09:30:00,8,happy,price black seven yet,0
+2024-10-04 10:21:52.870632,07:15:00,7.0,25,10,heavy,09:15:00,5,neutral,positive deep describe hotel,0
+2024-10-05 10:21:52.870632,08:30:00,8.3,10,40,skipped,10:30:00,9,happy,director line opportunity,1
+2024-10-06 10:21:52.870632,06:45:00,8.5,10,10,protein-rich,09:45:00,7,happy,security worry either rate building if third,0
+2024-10-07 10:21:52.870632,09:30:00,8.2,0,10,skipped,11:30:00,6,neutral,possible second painting change remember knowledge away,1
+2024-10-08 10:21:52.870632,09:45:00,8.6,25,20,light,10:45:00,6,neutral,his relationship produce significant,1
+2024-10-09 10:21:52.870632,05:15:00,7.3,5,10,skipped,06:15:00,4,sad,story scientist create bar computer sing billion,0
+2024-10-10 10:21:52.870632,09:30:00,5.4,5,20,protein-rich,12:30:00,3,sad,street computer instead some threat several into,1
+2024-10-11 10:21:52.870632,05:00:00,7.2,5,60,protein-rich,07:00:00,6,neutral,keep bar time official,0
+2024-10-12 10:21:52.870632,07:15:00,6.4,0,10,protein-rich,10:15:00,6,neutral,form hand behind stay,0
+2024-10-13 10:21:52.870632,06:15:00,7.0,10,0,heavy,08:15:00,4,sad,quickly main window nothing accept clearly,1
+2024-10-14 10:21:52.870632,04:45:00,8.3,0,20,light,05:45:00,8,happy,husband mother goal their view,0
+2024-10-15 10:21:52.870632,05:15:00,8.3,20,0,protein-rich,08:15:00,8,happy,why beautiful music never interest environmental,0
+2024-10-16 10:21:52.870632,04:30:00,8.8,30,40,skipped,06:30:00,7,happy,future turn collection fish rate religious art,0
+2024-10-17 10:21:52.870632,04:15:00,6.8,15,10,light,05:15:00,6,neutral,fact production wonder song top also attack radio,0
+2024-10-18 10:21:52.870632,06:45:00,7.8,10,60,protein-rich,07:45:00,6,neutral,fish evidence add bar seat,0
+2024-10-19 10:21:52.870632,07:30:00,5.9,25,60,skipped,09:30:00,3,sad,best house life lay teach physical,0
+2024-10-20 10:21:52.870632,09:45:00,8.5,0,20,carb-rich,11:45:00,6,neutral,yourself culture race enter common health bank,0
+2024-10-21 10:21:52.870632,05:15:00,5.3,30,50,heavy,06:15:00,4,sad,person article idea go treatment,1
+2024-10-22 10:21:52.870632,06:00:00,5.9,30,40,heavy,09:00:00,4,sad,total today identify method its community,1
+2024-10-23 10:21:52.870632,05:15:00,7.0,20,0,light,08:15:00,7,happy,with attack statement practice into several,1
+2024-10-24 10:21:52.870632,04:15:00,7.8,25,40,heavy,07:15:00,7,happy,current carry wonder really mrs or,1
+2024-10-25 10:21:52.870632,05:00:00,6.7,25,60,protein-rich,07:00:00,7,neutral,represent meeting available none coach small get,0
+2024-10-26 10:21:52.870632,09:00:00,8.5,5,30,carb-rich,10:00:00,7,happy,up much door act suggest name maintain,0
+2024-10-27 10:21:52.870632,05:30:00,8.3,10,60,skipped,06:30:00,9,happy,if personal open season east,0
+2024-10-28 10:21:52.870632,09:00:00,6.6,15,10,protein-rich,12:00:00,4,sad,just benefit talk position,1
+2024-10-29 10:21:52.870632,06:15:00,8.6,0,60,heavy,08:15:00,8,happy,reason enough box possible allow,0
+2024-10-30 10:21:52.870632,06:30:00,7.3,5,0,protein-rich,08:30:00,8,happy,pass reveal form six sound service despite determine,1
+2024-10-31 10:21:52.870632,06:45:00,5.6,5,50,protein-rich,09:45:00,4,sad,because behind drug chair like those agent,0
+2024-11-01 10:21:52.870632,08:45:00,5.7,10,0,carb-rich,09:45:00,3,sad,cultural ability exactly end only,1
+2024-11-02 10:21:52.870632,07:30:00,8.8,5,30,protein-rich,08:30:00,10,happy,american expect assume left check,1
+2024-11-03 10:21:52.870632,06:15:00,7.3,20,20,light,08:15:00,4,sad,truth position along,0
+2024-11-04 10:21:52.870632,07:00:00,7.5,20,50,carb-rich,10:00:00,7,happy,kid although they,1
+2024-11-05 10:21:52.870632,08:15:00,7.3,15,20,light,11:15:00,6,neutral,reach level determine couple reduce baby,0
+2024-11-06 10:21:52.870632,09:30:00,6.8,15,60,skipped,12:30:00,8,neutral,summer kid less day recent control,0
+2024-11-07 10:21:52.870632,06:45:00,5.6,5,10,light,09:45:00,5,sad,forward view herself which,1
+2024-11-08 10:21:52.870632,07:00:00,5.5,15,20,light,10:00:00,4,sad,range seek medical customer partner some,1
+2024-11-09 10:21:52.870632,08:45:00,5.8,0,30,light,09:45:00,2,sad,just try hear pretty we board,0
+2024-11-10 10:21:52.870632,05:00:00,7.4,15,40,carb-rich,07:00:00,8,happy,hand well young wide,0
+2024-11-11 10:21:52.870632,06:15:00,8.4,25,30,carb-rich,08:15:00,8,happy,concern car office speech thus continue,1
+2024-11-12 10:21:52.870632,09:30:00,6.5,10,30,protein-rich,11:30:00,6,neutral,nor investment about admit machine later region,0
+2024-11-13 10:21:52.870632,08:00:00,7.8,10,30,protein-rich,09:00:00,10,happy,stop should blood range most,0
+2024-11-14 10:21:52.870632,09:15:00,5.7,25,0,protein-rich,10:15:00,5,sad,account stuff throughout ground,1
+2024-11-15 10:21:52.870632,09:45:00,5.7,20,60,protein-rich,11:45:00,4,sad,level recent citizen,1
+2024-11-16 10:21:52.870632,07:30:00,8.0,20,40,skipped,09:30:00,8,happy,tend show much great word,0
+2024-11-17 10:21:52.870632,07:00:00,5.8,15,20,skipped,10:00:00,3,sad,test authority together job,1
+2024-11-18 10:21:52.870632,09:45:00,5.9,20,0,heavy,11:45:00,4,sad,course nature break environmental instead strategy,1
+2024-11-19 10:21:52.870632,05:15:00,5.5,20,40,protein-rich,08:15:00,3,sad,against piece bad us remain left serve,0
+2024-11-20 10:21:52.870632,04:15:00,8.3,0,10,heavy,07:15:00,5,neutral,product answer organization successful,1
+2024-11-21 10:21:52.870632,09:15:00,5.4,10,60,skipped,12:15:00,5,sad,recently another high instead under various,0
+2024-11-22 10:21:52.870632,05:30:00,7.6,25,10,heavy,07:30:00,8,happy,operation something scene explain sit,0
+2024-11-23 10:21:52.870632,09:00:00,8.4,5,30,heavy,11:00:00,7,happy,today listen owner few article,0
+2024-11-24 10:21:52.870632,07:30:00,7.1,15,40,carb-rich,08:30:00,8,happy,evening exactly she your network will,1
+2024-11-25 10:21:52.870632,06:00:00,6.0,15,0,skipped,07:00:00,3,sad,whose bar lay song century up,0
+2024-11-26 10:21:52.870632,08:30:00,5.4,15,50,carb-rich,11:30:00,3,sad,throw huge involve truth ago anyone,1
+2024-11-27 10:21:52.870632,07:30:00,6.6,15,50,light,10:30:00,5,neutral,soon run recent need news,1
+2024-11-28 10:21:52.870632,09:15:00,5.6,10,60,light,11:15:00,6,sad,social image range section,1
+2024-11-29 10:21:52.870632,07:15:00,7.7,5,30,protein-rich,10:15:00,8,happy,trip place nice save box single,1
+2024-11-30 10:21:52.870632,04:15:00,7.0,20,40,carb-rich,06:15:00,7,happy,rather purpose soon too,0
+2024-12-01 10:21:52.870632,06:30:00,6.8,30,20,protein-rich,09:30:00,6,neutral,less those red people,1
+2024-12-02 10:21:52.870632,04:15:00,6.9,25,50,heavy,07:15:00,6,neutral,read west safe plan cause,0
+2024-12-03 10:21:52.870632,05:30:00,6.4,10,60,protein-rich,06:30:00,6,neutral,toward wonder security option bed both,1
+2024-12-04 10:21:52.870632,08:45:00,7.6,5,30,light,09:45:00,6,neutral,within church value between western make truth,0
+2024-12-05 10:21:52.870632,08:00:00,8.4,0,60,carb-rich,09:00:00,7,happy,i first special position,1
+2024-12-06 10:21:52.870632,06:30:00,7.5,5,50,heavy,08:30:00,5,neutral,goal travel within,0
+2024-12-07 10:21:52.870632,06:00:00,8.1,5,40,protein-rich,07:00:00,8,happy,citizen chance social court citizen,1
+2024-12-08 10:21:52.870632,04:45:00,5.3,30,0,heavy,06:45:00,3,sad,government view official various education huge ever,0
+2024-12-09 10:21:52.870632,07:00:00,8.7,30,50,carb-rich,08:00:00,9,happy,relationship wish catch service question,0
+2024-12-10 10:21:52.870632,07:15:00,5.5,10,20,light,09:15:00,5,sad,likely draw article task,0
+2024-12-11 10:21:52.870632,04:30:00,7.1,30,40,protein-rich,05:30:00,5,neutral,run letter whom six current,0
+2024-12-12 10:21:52.870632,06:00:00,5.6,10,40,protein-rich,07:00:00,4,sad,by here force strong remember community,1
+2024-12-13 10:21:52.870632,06:30:00,6.3,30,60,heavy,07:30:00,7,neutral,analysis design trade,0
+2024-12-14 10:21:52.870632,08:45:00,8.5,5,0,skipped,09:45:00,7,happy,sure offer view side however,1
+2024-12-15 10:21:52.870632,06:30:00,5.3,25,60,carb-rich,08:30:00,2,sad,box newspaper hair agent full none care,0
+2024-12-16 10:21:52.870632,06:30:00,7.3,5,10,carb-rich,07:30:00,7,happy,she race ahead final,1
+2024-12-17 10:21:52.870632,06:00:00,8.2,10,50,heavy,08:00:00,10,happy,also provide rather in pick term,1
+2024-12-18 10:21:52.870632,05:30:00,7.8,0,10,heavy,07:30:00,6,neutral,individual camera black take doctor many,0
+2024-12-19 10:21:52.870632,04:00:00,6.2,20,50,carb-rich,06:00:00,6,neutral,give evidence level ten itself cover factor,0
+2024-12-20 10:21:52.870632,08:30:00,5.1,30,30,skipped,10:30:00,3,sad,anything either believe nature would,0
+2024-12-21 10:21:52.870632,09:15:00,8.1,5,40,carb-rich,10:15:00,10,happy,hair drug hard various value,1
+2024-12-22 10:21:52.870632,06:00:00,5.7,30,20,light,09:00:00,4,sad,phone manager change field compare,0
+2024-12-23 10:21:52.870632,06:45:00,8.8,15,0,carb-rich,07:45:00,7,happy,page so first music,1
+2024-12-24 10:21:52.870632,09:45:00,8.4,15,10,skipped,10:45:00,9,happy,whose same power throughout during forward,1
+2024-12-25 10:21:52.870632,04:45:00,7.9,20,0,light,07:45:00,6,neutral,baby career leader front check describe,1
+2024-12-26 10:21:52.870632,06:30:00,6.4,25,60,light,08:30:00,4,sad,expert effort age option mother star,1
+2024-12-27 10:21:52.870632,06:45:00,5.6,15,20,skipped,08:45:00,3,sad,buy decade two avoid,1
+2024-12-28 10:21:52.870632,07:45:00,5.3,0,10,heavy,09:45:00,1,sad,analysis us everybody peace plan page,1
+2024-12-29 10:21:52.870632,04:30:00,6.0,15,10,protein-rich,07:30:00,5,neutral,better special clear rich character,1
+2024-12-30 10:21:52.870632,08:30:00,8.2,5,40,protein-rich,10:30:00,7,happy,admit win explain government relate choose never,0
+2024-12-31 10:21:52.870632,04:00:00,6.1,15,0,skipped,06:00:00,2,sad,under push region husband,0
+2025-01-01 10:21:52.870632,09:15:00,7.5,15,40,heavy,12:15:00,6,neutral,more animal our cell this your,0
+2025-01-02 10:21:52.870632,04:45:00,7.6,5,60,heavy,07:45:00,8,happy,if public outside customer base out bring would,0
+2025-01-03 10:21:52.870632,05:45:00,6.9,5,30,skipped,07:45:00,5,neutral,skin significant certainly simply,0
+2025-01-04 10:21:52.870632,09:30:00,7.6,15,10,heavy,12:30:00,6,neutral,enjoy specific result war others another their,1
+2025-01-05 10:21:52.870632,08:00:00,7.2,10,10,protein-rich,10:00:00,7,happy,he development information hold or bring know,0
+2025-01-06 10:21:52.870632,05:45:00,8.0,30,0,light,06:45:00,6,neutral,never his thought direction congress,1
+2025-01-07 10:21:52.870632,04:30:00,5.8,25,60,protein-rich,05:30:00,4,sad,no rest garden rest,0
+2025-01-08 10:21:52.870632,07:30:00,5.8,30,0,skipped,08:30:00,3,sad,nor usually heart study,1
+2025-01-09 10:21:52.870632,06:15:00,6.1,0,0,protein-rich,07:15:00,5,neutral,some floor physical speech,1
+2025-01-10 10:21:52.870632,08:45:00,8.0,5,0,light,11:45:00,7,happy,million film inside law good,0
+2025-01-11 10:21:52.870632,08:45:00,8.2,5,60,light,09:45:00,7,happy,role rock word can state he until picture,0
+2025-01-12 10:21:52.870632,09:15:00,7.1,30,0,heavy,11:15:00,5,neutral,generation happy sell be answer,1
+2025-01-13 10:21:52.870632,04:45:00,5.6,30,40,skipped,06:45:00,6,sad,lot computer instead true plant world,1
+2025-01-14 10:21:52.870632,06:15:00,5.5,25,0,skipped,07:15:00,4,sad,stock many hundred,1
+2025-01-15 10:21:52.870632,04:00:00,6.9,20,30,protein-rich,06:00:00,5,neutral,apply then identify every,1
+2025-01-16 10:21:52.870632,04:15:00,5.8,25,10,light,05:15:00,3,sad,see provide simple plan want road,0
+2025-01-17 10:21:52.870632,06:15:00,5.3,0,40,skipped,08:15:00,1,sad,act performance word popular,1
+2025-01-18 10:21:52.870632,05:15:00,7.4,10,10,light,07:15:00,6,neutral,only visit total chance,1
+2025-01-19 10:21:52.870632,06:30:00,7.6,30,0,skipped,07:30:00,6,neutral,huge themselves street hotel,1
+2025-01-20 10:21:52.870632,07:30:00,6.9,10,60,skipped,10:30:00,7,neutral,wide down hear real white,1
+2025-01-21 10:21:52.870632,09:45:00,5.9,20,30,carb-rich,11:45:00,3,sad,significant fill similar city,0
+2025-01-22 10:21:52.870632,08:00:00,7.5,0,10,light,09:00:00,6,neutral,herself tell to writer,1
+2025-01-23 10:21:52.870632,07:45:00,8.3,5,50,light,10:45:00,9,happy,listen store sense name,0
+2025-01-24 10:21:52.870632,08:15:00,7.0,0,20,heavy,09:15:00,5,neutral,determine day minute any history including,0
+2025-01-25 10:21:52.870632,09:30:00,7.8,30,0,skipped,10:30:00,8,happy,nice arm interest peace trip cause down,1
+2025-01-26 10:21:52.870632,05:30:00,5.7,25,20,skipped,06:30:00,3,sad,position size speech marriage she,1
+2025-01-27 10:21:52.870632,07:30:00,6.4,20,0,light,08:30:00,4,sad,piece should return help voice,1
+2025-01-28 10:21:52.870632,05:30:00,8.9,5,0,heavy,07:30:00,9,happy,thought standard shake health population,0
+2025-01-29 10:21:52.870632,05:30:00,9.0,5,40,carb-rich,07:30:00,10,happy,rich court believe area often religious section unit,0
+2025-01-30 10:21:52.870632,07:15:00,5.0,25,40,skipped,08:15:00,4,sad,fear guess opportunity central administration executive,0
+2025-01-31 10:21:52.870632,04:30:00,8.6,20,50,protein-rich,06:30:00,10,happy,pull door thousand hotel authority,0
+2025-02-01 10:21:52.870632,05:00:00,8.4,15,60,protein-rich,06:00:00,7,happy,spend individual national card,0
+2025-02-02 10:21:52.870632,05:00:00,7.6,15,60,carb-rich,07:00:00,6,neutral,perhaps ready avoid several see few thing,0
+2025-02-03 10:21:52.870632,04:30:00,7.4,5,50,heavy,05:30:00,8,happy,white represent own model reveal,0
+2025-02-04 10:21:52.870632,09:00:00,5.4,15,40,heavy,11:00:00,6,sad,source chance important include event wife car,0
+2025-02-05 10:21:52.870632,04:45:00,5.5,30,50,light,07:45:00,4,sad,former important identify before structure,0
+2025-02-06 10:21:52.870632,08:30:00,8.5,5,50,light,11:30:00,7,happy,five yourself growth allow,1
+2025-02-07 10:21:52.870632,07:00:00,6.0,10,60,protein-rich,10:00:00,7,neutral,against sing home,0
+2025-02-08 10:21:52.870632,04:45:00,8.7,20,50,carb-rich,05:45:00,9,happy,see bill mother foreign home yard,0
+2025-02-09 10:21:52.870632,04:45:00,8.5,5,30,light,06:45:00,8,happy,develop box together set phone deal feeling,1
+2025-02-10 10:21:52.870632,06:30:00,7.8,5,30,protein-rich,09:30:00,9,happy,market financial increase star,1
+2025-02-11 10:21:52.870632,05:45:00,7.4,25,60,light,06:45:00,6,neutral,result buy state yet music,0
+2025-02-12 10:21:52.870632,06:15:00,8.0,30,60,light,09:15:00,8,happy,write day animal maybe,1
+2025-02-13 10:21:52.870632,08:45:00,8.4,30,0,heavy,11:45:00,9,happy,hard year draw whom,0
+2025-02-14 10:21:52.870632,04:30:00,7.4,10,50,skipped,07:30:00,7,happy,state at rather feeling color tv raise,1
+2025-02-15 10:21:52.870632,07:45:00,7.9,30,60,heavy,10:45:00,9,happy,pattern everyone rule central,0
+2025-02-16 10:21:52.870632,08:00:00,6.5,25,10,heavy,10:00:00,7,neutral,pass generation animal pretty suggest pull,0
+2025-02-17 10:21:52.870632,04:45:00,8.4,20,60,protein-rich,06:45:00,8,happy,specific director hand magazine think improve late they,0
+2025-02-18 10:21:52.870632,07:45:00,6.4,25,0,protein-rich,09:45:00,6,neutral,live base watch happen attention,1
+2025-02-19 10:21:52.870632,08:30:00,6.5,0,60,skipped,09:30:00,4,sad,question american put agreement,1
+2025-02-20 10:21:52.870632,04:30:00,6.4,15,50,carb-rich,05:30:00,4,sad,though behind land speech start,0
+2025-02-21 10:21:52.870632,08:15:00,7.7,5,40,carb-rich,09:15:00,7,happy,forward west above great box rate,0
+2025-02-22 10:21:52.870632,06:00:00,6.5,5,0,light,07:00:00,3,sad,mission notice peace notice power,1
+2025-02-23 10:21:52.870632,05:15:00,7.7,10,10,heavy,06:15:00,5,neutral,million improve billion general vote,0
+2025-02-24 10:21:52.870632,08:45:00,5.1,25,60,skipped,09:45:00,2,sad,recently computer without old local his kid politics,1
+2025-02-25 10:21:52.870632,08:30:00,6.2,10,40,carb-rich,10:30:00,7,neutral,table everybody challenge green ability for two bed,1
+2025-02-26 10:21:52.870632,09:45:00,8.8,30,50,skipped,11:45:00,8,happy,radio cause your book include camera,0
+2025-02-27 10:21:52.870632,09:30:00,7.1,10,10,carb-rich,11:30:00,5,neutral,administration ahead include thing manager,0
+2025-02-28 10:21:52.870632,04:45:00,7.6,15,0,protein-rich,06:45:00,5,neutral,everyone full set likely evening maintain,1
+2025-03-01 10:21:52.870632,05:00:00,6.9,0,50,heavy,06:00:00,4,sad,range analysis push company model nature bar,1
+2025-03-02 10:21:52.870632,04:30:00,6.3,10,10,protein-rich,05:30:00,3,sad,through environment me until forget ok success,0
+2025-03-03 10:21:52.870632,06:30:00,6.5,30,40,protein-rich,09:30:00,7,neutral,into home other run happen join food far,0
+2025-03-04 10:21:52.870632,08:30:00,6.5,20,40,skipped,11:30:00,4,sad,almost throw nothing reflect,0
+2025-03-05 10:21:52.870632,05:45:00,5.5,0,30,light,08:45:00,5,sad,raise develop question sure budget government piece list,0
+2025-03-06 10:21:52.870632,07:00:00,6.3,15,10,light,08:00:00,5,neutral,campaign kid including remember,0
+2025-03-07 10:21:52.870632,08:15:00,8.8,15,30,carb-rich,10:15:00,8,happy,push sea its why,0
+2025-03-08 10:21:52.870632,04:00:00,5.2,5,60,carb-rich,07:00:00,3,sad,everyone water public three whatever,0
+2025-03-09 10:21:52.870632,07:45:00,6.0,20,20,skipped,09:45:00,5,neutral,significant standard forget capital bank age,0
+2025-03-10 10:21:52.870632,04:45:00,6.2,30,0,carb-rich,05:45:00,6,neutral,vote success level,1
+2025-03-11 10:21:52.870632,06:00:00,7.0,0,30,carb-rich,07:00:00,7,happy,back opportunity leader everything,1
+2025-03-12 10:21:52.870632,06:30:00,7.2,25,0,skipped,08:30:00,4,sad,learn table stand forward,1
+2025-03-13 10:21:52.870632,08:45:00,7.0,0,20,light,10:45:00,4,sad,data security reason local,1
+2025-03-14 10:21:52.870632,09:15:00,6.2,20,50,protein-rich,11:15:00,4,sad,goal choose when particular real region,1
+2025-03-15 10:21:52.870632,09:45:00,8.6,10,50,carb-rich,10:45:00,9,happy,stage until although,0
+2025-03-16 10:21:52.870632,09:00:00,5.0,0,60,carb-rich,12:00:00,2,sad,from nice cover appear,0
+2025-03-17 10:21:52.870632,06:00:00,5.3,20,30,skipped,07:00:00,6,sad,music i report find win interesting policy,1
+2025-03-18 10:21:52.870632,09:45:00,5.8,25,20,skipped,12:45:00,4,sad,point pattern huge during school,1
+2025-03-19 10:21:52.870632,08:00:00,8.5,20,0,heavy,11:00:00,8,happy,get sport year stand soldier,1
+2025-03-20 10:21:52.870632,09:00:00,8.8,20,30,light,10:00:00,8,happy,religious discussion culture,1
+2025-03-21 10:21:52.870632,04:45:00,7.8,25,20,protein-rich,05:45:00,5,neutral,yard memory high community human foreign act professional,1
+2025-03-22 10:21:52.870632,07:45:00,7.4,15,50,heavy,08:45:00,5,neutral,state manage part lose those plant,1
+2025-03-23 10:21:52.870632,09:45:00,5.5,20,40,skipped,11:45:00,4,sad,cup rise star act,0
+2025-03-24 10:21:52.870632,05:15:00,8.6,5,0,skipped,07:15:00,7,happy,section along opportunity health land,1
+2025-03-25 10:21:52.870632,06:30:00,5.4,5,20,carb-rich,09:30:00,3,sad,try free table shake,1
+2025-03-26 10:21:52.870632,05:30:00,8.8,30,30,light,06:30:00,9,happy,great glass very kind product,0
+2025-03-27 10:21:52.870632,04:15:00,6.0,25,20,protein-rich,05:15:00,4,sad,box serve special society head great just sense,1
+2025-03-28 10:21:52.870632,04:15:00,7.3,15,20,skipped,07:15:00,6,neutral,show edge keep best between,1
+2025-03-29 10:21:52.870632,05:00:00,5.6,10,50,light,07:00:00,4,sad,operation friend enough dog much,1
+2025-03-30 10:21:52.870632,09:00:00,5.4,5,30,heavy,12:00:00,6,sad,pretty occur at adult natural responsibility media attention,1
+2025-03-31 10:21:52.870632,04:45:00,6.3,30,30,light,07:45:00,6,neutral,campaign stuff perhaps involve,0
+2025-04-01 10:21:52.870632,05:15:00,7.0,10,40,light,07:15:00,8,happy,might ability product old,1
+2025-04-02 10:21:52.870632,06:00:00,7.9,5,50,light,08:00:00,6,neutral,throughout notice week forget trade,0
+2025-04-03 10:21:52.870632,07:45:00,8.0,30,10,protein-rich,10:45:00,7,happy,issue compare politics either direction yet,1
+2025-04-04 10:21:52.870632,09:30:00,6.7,10,60,light,11:30:00,8,neutral,join major growth than factor deep apply,0
+2025-04-05 10:21:52.870632,07:15:00,5.8,15,30,skipped,09:15:00,5,sad,response beyond term lay candidate whose rule,0
+2025-04-06 10:21:52.870632,09:15:00,8.6,15,50,light,11:15:00,9,happy,whether two community officer full,0
+2025-04-07 10:21:52.870632,08:45:00,9.0,5,60,carb-rich,09:45:00,10,happy,stock outside would ago describe,1
+2025-04-08 10:21:52.870632,09:45:00,7.6,20,40,protein-rich,11:45:00,9,happy,still political design,0
+2025-04-09 10:21:52.870632,07:00:00,5.5,20,50,carb-rich,10:00:00,6,sad,human cause executive trade region within poor,1
+2025-04-10 10:21:52.870632,04:00:00,7.2,0,30,skipped,07:00:00,5,neutral,alone culture build finally join security tree,0
+2025-04-11 10:21:52.870632,05:00:00,6.9,0,0,heavy,08:00:00,5,neutral,there write between fund film use whom,0
+2025-04-12 10:21:52.870632,07:00:00,8.8,20,0,light,09:00:00,9,happy,beyond realize may service plan history,1
+2025-04-13 10:21:52.870632,08:45:00,6.9,20,30,light,11:45:00,8,neutral,response side those somebody,0
+2025-04-14 10:21:52.870632,09:30:00,7.4,10,0,light,12:30:00,8,happy,hand goal laugh light suggest source political market,0
+2025-04-15 10:21:52.870632,08:00:00,8.4,25,30,light,10:00:00,8,happy,low year from site appear growth,1
+2025-04-16 10:21:52.870632,08:15:00,8.2,10,30,carb-rich,10:15:00,7,happy,media room society view a senior,0
+2025-04-17 10:21:52.870632,04:30:00,8.5,5,0,protein-rich,07:30:00,9,happy,term may whether family peace change share total,0
+2025-04-18 10:21:52.870632,07:15:00,6.5,5,40,carb-rich,10:15:00,7,neutral,present particularly foreign west fight billion production,0
+2025-04-19 10:21:52.870632,07:15:00,7.2,10,40,skipped,10:15:00,5,neutral,after suddenly statement drug anything,0
+2025-04-20 10:21:52.870632,07:30:00,6.9,25,50,light,09:30:00,5,neutral,woman her some throughout meet why join agree,1
+2025-04-21 10:21:52.870632,07:15:00,7.3,5,0,skipped,10:15:00,5,neutral,simply too them truth stand million growth career,1
+2025-04-22 10:21:52.870632,04:15:00,5.7,25,20,heavy,06:15:00,3,sad,computer hot new ok today trip,0
+2025-04-23 10:21:52.870632,04:15:00,5.8,5,10,carb-rich,06:15:00,3,sad,learn century task trial government population,1
+2025-04-24 10:21:52.870632,09:00:00,8.6,15,40,carb-rich,10:00:00,9,happy,opportunity current option add,1
+2025-04-25 10:21:52.870632,07:45:00,5.3,5,0,protein-rich,09:45:00,2,sad,pay large share blue business both central,0
+2025-04-26 10:21:52.870632,09:15:00,8.2,5,60,carb-rich,12:15:00,10,happy,ten card growth state page against budget any,0
+2025-04-27 10:21:52.870632,07:30:00,9.0,0,40,light,10:30:00,7,happy,push method hold,0
+2025-04-28 10:21:52.870632,05:15:00,5.8,20,40,carb-rich,07:15:00,3,sad,quickly total worry fight billion general will ready,0
+2025-04-29 10:21:52.870632,09:00:00,5.9,10,50,protein-rich,11:00:00,4,sad,laugh term usually able,0
+2025-04-30 10:21:52.870632,08:45:00,6.3,5,0,protein-rich,11:45:00,6,neutral,perform base true near country,1
+2025-05-01 10:21:52.870632,06:15:00,5.9,10,0,protein-rich,07:15:00,5,sad,chance against girl fast style professional create worker,1
+2025-05-02 10:21:52.870632,05:45:00,5.8,25,10,protein-rich,07:45:00,3,sad,appear buy kitchen watch beyond yourself open charge,0
+2025-05-03 10:21:52.870632,06:15:00,6.6,0,40,skipped,08:15:00,6,neutral,go job eat paper letter,0
+2025-05-04 10:21:52.870632,08:15:00,6.3,15,0,light,09:15:00,4,sad,room these probably yourself government think,0
+2025-05-05 10:21:52.870632,04:30:00,8.9,15,30,skipped,05:30:00,9,happy,operation herself vote blue over,1
+2025-05-06 10:21:52.870632,07:00:00,8.9,5,30,light,09:00:00,9,happy,father music consumer billion painting particular again,0
+2025-05-07 10:21:52.870632,05:15:00,7.1,20,0,light,08:15:00,5,neutral,different heart lead study,0
+2025-05-08 10:21:52.870632,06:45:00,7.1,0,20,light,08:45:00,3,sad,policy employee require suddenly,0
+2025-05-09 10:21:52.870632,07:00:00,5.2,30,50,skipped,08:00:00,2,sad,foot dark particular for choice environment,1
+2025-05-10 10:21:52.870632,06:30:00,8.7,30,20,light,07:30:00,8,happy,amount though camera relationship,1
+2025-05-11 10:21:52.870632,05:00:00,8.5,20,30,light,06:00:00,9,happy,turn skin tough record agent positive administration thing,0
+2025-05-12 10:21:52.870632,07:45:00,8.7,5,40,skipped,10:45:00,9,happy,serve people nation dog probably,1
+2025-05-13 10:21:52.870632,05:45:00,5.9,0,30,protein-rich,08:45:00,5,sad,light spring peace difference,0
+2025-05-14 10:21:52.870632,06:00:00,6.6,15,40,heavy,08:00:00,7,neutral,charge rich discuss city door vote,1
+2025-05-15 10:21:52.870632,08:45:00,8.4,30,40,carb-rich,10:45:00,8,happy,guess cause religious night record nice central month,0
+2025-05-16 10:21:52.870632,09:15:00,8.0,15,40,carb-rich,10:15:00,7,happy,she run scientist line stay top man,0
+2025-05-17 10:21:52.870632,05:30:00,5.9,20,20,carb-rich,08:30:00,4,sad,i yeah security sea work price,1
+2025-05-18 10:21:52.870632,08:45:00,5.1,0,40,protein-rich,09:45:00,4,sad,rise something doctor instead develop art,0
+2025-05-19 10:21:52.870632,08:45:00,6.7,15,50,heavy,09:45:00,5,neutral,impact everybody family statement describe,1
+2025-05-20 10:21:52.870632,09:15:00,8.3,0,10,light,11:15:00,7,happy,safe true data,1
+2025-05-21 10:21:52.870632,04:30:00,7.7,20,0,skipped,06:30:00,7,happy,walk throw record writer move likely,0
+2025-05-22 10:21:52.870632,04:00:00,7.5,20,20,skipped,06:00:00,7,happy,shake ready type save,0
+2025-05-23 10:21:52.870632,08:45:00,6.2,25,10,light,10:45:00,3,sad,pretty put maybe back fill,1
+2025-05-24 10:21:52.870632,08:45:00,5.7,30,40,light,11:45:00,5,sad,allow glass leg edge behind during raise base,1
+2025-05-25 10:21:52.870632,07:15:00,7.6,15,50,protein-rich,09:15:00,8,happy,less how gun research analysis,1
+2025-05-26 10:21:52.870632,05:30:00,7.5,5,40,skipped,08:30:00,7,happy,spring nature those media carry customer,1
+2025-05-27 10:21:52.870632,04:00:00,6.2,30,30,skipped,06:00:00,4,sad,full activity central current collection artist,1
+2025-05-28 10:21:52.870632,06:45:00,7.7,15,0,carb-rich,07:45:00,8,happy,long more decide break,0
+2025-05-29 10:21:52.870632,05:30:00,6.9,30,20,skipped,07:30:00,7,neutral,fight keep where list,0
+2025-05-30 10:21:52.870632,06:45:00,7.5,5,0,light,07:45:00,8,happy,without type mind remember line security a,1
+2025-05-31 10:21:52.870632,04:30:00,5.6,20,10,skipped,06:30:00,4,sad,buy show upon certain resource little,0
+2025-06-01 10:21:52.870632,06:30:00,8.2,25,60,carb-rich,07:30:00,7,happy,pay us cultural ready,1
+2025-06-02 10:21:52.870632,09:30:00,8.9,10,40,heavy,10:30:00,9,happy,explain deep cut think,0
+2025-06-03 10:21:52.870632,08:15:00,6.8,10,20,heavy,09:15:00,4,sad,than material development coach rise college data,1
+2025-06-04 10:21:52.870632,08:30:00,7.7,5,0,heavy,11:30:00,6,neutral,picture second table population which benefit way,1
+2025-06-05 10:21:52.870632,06:00:00,9.0,20,20,heavy,07:00:00,9,happy,offer upon always,1
+2025-06-06 10:21:52.870632,09:15:00,6.2,5,0,protein-rich,11:15:00,4,sad,culture history degree friend live huge,0
+2025-06-07 10:21:52.870632,07:15:00,5.0,0,60,skipped,09:15:00,2,sad,business will study picture necessary show serious,0
+2025-06-08 10:21:52.870632,07:15:00,6.3,25,40,light,08:15:00,5,neutral,energy argue become book world,0
+2025-06-09 10:21:52.870632,05:15:00,8.9,15,30,heavy,08:15:00,10,happy,heavy some middle million congress,1
+2025-06-10 10:21:52.870632,08:00:00,5.1,0,0,light,11:00:00,3,sad,among college edge ago,0
+2025-06-11 10:21:52.870632,06:30:00,5.9,5,30,heavy,09:30:00,4,sad,sit member so strong final year,0
+2025-06-12 10:21:52.870632,06:30:00,5.3,15,0,light,08:30:00,4,sad,tell couple gun worker happen question,0
+2025-06-13 10:21:52.870632,08:00:00,8.3,30,10,light,11:00:00,9,happy,company behavior cost entire daughter true,1
+2025-06-14 10:21:52.870632,07:00:00,5.6,0,50,carb-rich,08:00:00,4,sad,role money poor,1
+2025-06-15 10:21:52.870632,09:30:00,6.5,30,40,protein-rich,12:30:00,7,neutral,wrong at ever direction,0
+2025-06-16 10:21:52.870632,05:30:00,6.6,10,20,light,08:30:00,3,sad,point approach own compare research,1
+2025-06-17 10:21:52.870632,04:45:00,6.7,15,40,light,07:45:00,5,neutral,add base interview wait week,1
+2025-06-18 10:21:52.870632,09:15:00,5.9,25,30,carb-rich,12:15:00,3,sad,difficult know everything mother,1
+2025-06-19 10:21:52.870632,05:30:00,5.6,10,30,light,06:30:00,5,sad,whose or yet reason customer,0
+2025-06-20 10:21:52.870632,09:30:00,8.0,25,30,heavy,10:30:00,7,happy,white style follow stuff several no,0
+2025-06-21 10:21:52.870632,08:45:00,7.3,10,10,light,10:45:00,6,neutral,country skill identify charge decision,1
+2025-06-22 10:21:52.870632,05:15:00,5.8,15,10,heavy,08:15:00,4,sad,somebody cause cost sign,0
+2025-06-23 10:21:52.870632,07:30:00,6.7,30,50,skipped,09:30:00,6,neutral,bit from fill top impact radio,1
+2025-06-24 10:21:52.870632,06:30:00,8.3,0,30,skipped,09:30:00,6,neutral,entire bill shake rest those,1
+2025-06-25 10:21:52.870632,06:15:00,7.1,20,10,heavy,08:15:00,7,happy,include mrs information matter national,0
+2025-06-26 10:21:52.870632,06:45:00,8.5,20,40,light,07:45:00,10,happy,near subject behind significant about use marriage dinner,0
+2025-06-27 10:21:52.870632,07:15:00,5.5,0,50,protein-rich,08:15:00,4,sad,push customer economic inside worker,0
+2025-06-28 10:21:52.870632,07:45:00,6.9,5,50,light,10:45:00,6,neutral,lay add son sell let,0
+2025-06-29 10:21:52.870632,07:00:00,7.5,15,50,light,09:00:00,8,happy,scene something allow,1
+2025-06-30 10:21:52.870632,06:45:00,8.9,20,0,heavy,09:45:00,7,happy,item style science tend born challenge,1
+2025-07-01 10:21:52.870632,07:00:00,8.5,20,60,carb-rich,09:00:00,8,happy,share i movement natural,1
+2025-07-02 10:21:52.870632,05:15:00,5.1,25,50,heavy,07:15:00,2,sad,meeting fall player agent manage different opportunity,1
+2025-07-03 10:21:52.870632,08:30:00,7.4,20,40,heavy,09:30:00,6,neutral,feeling source measure unit after,1
+2025-07-04 10:21:52.870632,08:30:00,6.1,0,50,skipped,09:30:00,4,sad,list third model indeed,1
+2025-07-05 10:21:52.870632,07:45:00,5.6,20,20,protein-rich,08:45:00,5,sad,why whom have drive way,0
+2025-07-06 10:21:52.870632,06:30:00,8.2,0,0,light,08:30:00,7,happy,concern loss still each film find baby,0
+2025-07-07 10:21:52.870632,07:30:00,6.2,0,20,heavy,09:30:00,2,sad,deep pay democratic front anyone bar end summer,0
+2025-07-08 10:21:52.870632,05:45:00,5.9,15,60,carb-rich,08:45:00,6,sad,begin task discussion often increase resource strong,0
+2025-07-09 10:21:52.870632,05:30:00,8.6,30,50,carb-rich,07:30:00,8,happy,dark performance almost care admit course,0
+2025-07-10 10:21:52.870632,05:30:00,8.5,5,20,protein-rich,07:30:00,7,happy,relationship husband strategy president,0
+2025-07-11 10:21:52.870632,08:30:00,6.1,15,50,heavy,11:30:00,5,neutral,never medical prove american learn explain,1
+2025-07-12 10:21:52.870632,06:00:00,6.2,5,40,light,08:00:00,4,sad,thank explain foreign trial morning student clearly,0
+2025-07-13 10:21:52.870632,06:00:00,8.8,25,30,light,07:00:00,8,happy,political organization close group student,0
+2025-07-14 10:21:52.870632,05:00:00,8.1,25,60,heavy,08:00:00,9,happy,kind continue bed high lawyer certainly key,1
+2025-07-15 10:21:52.870632,08:15:00,5.1,10,20,light,11:15:00,5,sad,run sort political factor protect guess during,0
+2025-07-16 10:21:52.870632,06:30:00,7.4,20,10,light,09:30:00,5,neutral,ever read pick,0
+2025-07-17 10:21:52.870632,07:30:00,8.1,0,50,light,08:30:00,6,neutral,small international discover ball,0
+2025-07-18 10:21:52.870632,08:00:00,7.2,25,10,protein-rich,10:00:00,7,happy,security relate once maintain,1
+2025-07-19 10:21:52.870632,07:30:00,6.3,5,40,skipped,10:30:00,6,neutral,popular produce number discussion,0
