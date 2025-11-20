@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 # Cargar el dataset
-file_path = "/Users/erickivannajeracisneros/Downloads/Morning_Routine_Productivity_Dataset_2.csv"
+file_path = "/Users/erickivannajeracisneros/Documents/GitHub/DataWarehouse_ETL/Morning_Routine_Productivity_Dataset_2.csv"
 df = pd.read_csv(file_path)
 
 # Revisar estructura general
